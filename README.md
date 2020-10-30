@@ -9,6 +9,7 @@ This is an ongoing collection of Open Banking Data APIs for Australian deposit t
 
 ## List of Current Providers
 
+```
 86 400: https://public.cdr-api.86400.com.au
 AMP: https://cdr-api.amp.com.au
 ANZ: https://api.anz
@@ -83,3 +84,4 @@ Warwick Credit Union: https://ibanking.wcu.com.au/openbanking-warwick
 WAW Credit Union: https://onlinebanking.wawcu.com.au/OpenBanking
 Westpac: https://digital-api.westpac.com.au
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking
+```
