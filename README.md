@@ -1,5 +1,7 @@
 # Australian Open Banking Data Database
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/>
+https://img.shields.io/github/last-commit/Uskompuf/Australian-Open-Banking-Data-Database
+
 
 This is an ongoing collection of Open Banking Data APIs for Australian deposit taking institutions.
 
