@@ -7,6 +7,10 @@ This is an ongoing collection of Open Banking Data APIs for Australian deposit t
 - [ ] Classify Institutions
 - [ ] Find remaining URLs
 
+## Contributing
+
+Simply submit a pull request updating this README.
+
 ## List of Current Providers
 
 ```
