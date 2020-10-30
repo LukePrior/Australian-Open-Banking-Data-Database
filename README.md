@@ -14,17 +14,39 @@ Simply submit a pull request updating this README.
 ## List of Current Providers
 
 ```
-86 400: https://public.cdr-api.86400.com.au
+Big Four Banks
+
+Commonwealth Bank of Australia (CBA): https://api.commbank.com.au
+Westpac Banking Corporation (Westpac): https://digital-api.westpac.com.au
+Australia and New Zealand Banking Group (ANZ): https://api.anz
+National Australia Bank (NAB): https://openbank.api.nab.com.au
+
+Regional Banks
+
+Bank of Queensland (BOQ): ToDo
+Macquarie Bank: https://api.macquariebank.io
+Bendigo Bank: https://api.cdr.bendigobank.com.au
+Adelaide Bank: https://api.cdr.adelaidebank.com.au
 AMP: https://cdr-api.amp.com.au
-ANZ: https://api.anz
+Suncorp: https://api-pub-cdr.suncorpbank.com.au
+ING Bank: https://apic.ing.com.au
+HSBC Bank: https://api.hsbc.com.au
+
+Small Banks
+
+Credit Unions
+
+Selective Banks
+
+Neobanks
+
+86 400: https://public.cdr-api.86400.com.au
 People's Choice Credit Union: https://api.peopleschoice.com.au/public
 Australian Military Bank: https://product.api.australianmilitarybank.com.au
 Sydney Mutual Bank: https://internetbanking.sydneymutual.bank/openbankingscu
 Endeavour Mutual Bank: https://netbank.endeavour.bank/openbankingesb
 Australian Unity Bank: https://open-banking.australianunity.com.au
 Auswide Bank: https://api.auswidebank.com.au/OpenBanking
-Bendigo Bank: https://api.cdr.bendigobank.com.au
-Adelaide Bank: https://api.cdr.adelaidebank.com.au
 Rural Bank: https://api.cdr.ruralbank.com.au
 Delphi Bank: https://api.cdr.delphibank.com.au
 Leveraged: https://api.cdr.leveraged.com.au
@@ -37,7 +59,6 @@ Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au
 Cairns Bank: https://ibanking.cairnsbank.com.au/openbanking-penny
 Central West Credit Union: https://ib.cwcu.com.au/openbanking
 Coastline Credit Union: https://public.cdr-api.coastline.com.au
-Commonwealth Bank: https://api.commbank.com.au
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking
 Credit Union Australia: https://openbanking.apiext.cua.com.au/cds-au
 Credit Union SA: https://openbanking.api.creditunionsa.com.au
@@ -58,11 +79,9 @@ IMB Bank: https://api.openbanking.imb.com.au
 Judo Bank: https://open.judo.bank
 Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking
 The Mac Credit Union: https://onlinebanking.themaccu.com.au/OpenBanking
-Macquarie Bank: https://api.macquariebank.io
 RACQ Bank: https://api2.racq.com.au/external
 ME Bank: https://api.mebank.com.au
 MyLife MyFinance: https://openbanking-api.mylifemyfinance.com.au
-National Australia Bank: https://openbank.api.nab.com.au
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au
 Northern Inland Credit Union: https://nicu.prd.cdr.systems
 P&N Bank: https://ob-api.pnbank.com.au
@@ -75,7 +94,6 @@ South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking
 Southern Cross Credit Union: https://mvp1.sccu.com.au/OpenBanking
 South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking
 Summerland Credit Union: https://public.cdr-api.summerland.com.au
-Suncorp: https://api-pub-cdr.suncorpbank.com.au
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank
 Broken Hill Community Credit Union: https://public.cdr-api.bhccu.com.au
 The Capricornian: https://onlinebanking.capricornian.com.au/OpenBanking
@@ -86,6 +104,5 @@ Bank First: https://ibank.bankfirst.com.au/openbanking
 Volt Bank: https://api.voltbank.com.au
 Warwick Credit Union: https://ibanking.wcu.com.au/openbanking-warwick
 WAW Credit Union: https://onlinebanking.wawcu.com.au/OpenBanking
-Westpac: https://digital-api.westpac.com.au
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking
 ```
