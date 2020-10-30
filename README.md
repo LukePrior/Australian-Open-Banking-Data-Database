@@ -13,16 +13,17 @@ Simply submit a pull request updating this README.
 
 ## List of Current Providers
 
-```
-Big Four Banks
 
+**Big Four Banks**
+```
 Commonwealth Bank of Australia (CBA): https://api.commbank.com.au
 Westpac Banking Corporation (Westpac): https://digital-api.westpac.com.au
 Australia and New Zealand Banking Group (ANZ): https://api.anz
 National Australia Bank (NAB): https://openbank.api.nab.com.au
+```
 
-Regional Banks
-
+**Regional Banks**
+```
 Bank of Queensland (BOQ): ToDo
 Macquarie Bank: https://api.macquariebank.io
 Bendigo Bank: https://api.cdr.bendigobank.com.au
@@ -31,9 +32,10 @@ AMP: https://cdr-api.amp.com.au
 Suncorp: https://api-pub-cdr.suncorpbank.com.au
 ING Bank: https://apic.ing.com.au
 HSBC Bank: https://api.hsbc.com.au
+```
 
-Small Banks
-
+**Small Banks**
+```
 Sydney Mutual Bank: https://internetbanking.sydneymutual.bank/openbankingscu
 Endeavour Mutual Bank: https://netbank.endeavour.bank/openbankingesb
 Australian Unity Bank: https://open-banking.australianunity.com.au
@@ -63,9 +65,10 @@ Qudos Bank: https://public.cdr-api.qudosbank.com.au
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank
 MOVE Bank: https://api.movebank.com.au/OpenBanking
 Unity Bank: https://ibanking.unitybank.com.au/OpenBanking
+```
 
-Credit Unions
-
+**Credit Unions**
+```
 People's Choice Credit Union: https://api.peopleschoice.com.au/public
 Central West Credit Union: https://ib.cwcu.com.au/openbanking
 Coastline Credit Union: https://public.cdr-api.coastline.com.au
@@ -90,14 +93,16 @@ Transport Mutual Credit Union: https://banking.transportmutual.com.au/OpenBankin
 Bank First: https://ibank.bankfirst.com.au/openbanking
 Warwick Credit Union: https://ibanking.wcu.com.au/openbanking-warwick
 WAW Credit Union: https://onlinebanking.wawcu.com.au/OpenBanking
+```
 
-Neobanks
-
+**Neobanks**
+```
 86 400: https://public.cdr-api.86400.com.au
 Volt Bank: https://api.voltbank.com.au
+```
 
-Selective Banks / Credit Unions
-
+**Selective Banks / Credit Unions**
+```
 Australian Military Bank: https://product.api.australianmilitarybank.com.au
 Defence Bank: https://defencebank.prd.cdr.systems
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au
