@@ -8,7 +8,7 @@ This is an ongoing collection of Open Banking Data APIs for Australian deposit t
 **To access each institutions API you need to append `/cds-au/v1`**
 
 ## ToDo
-- [X] Classify Institutions
+- [X] ~~Classify Institutions~~
 - [ ] Find remaining URLs
 
 ## Contributing
