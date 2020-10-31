@@ -19,9 +19,7 @@ If you have any changes to the providers or documentation simply submit a pull r
 
 # Code Example
 
-```html
 <script async src="https://cdn.reqbin.com/embed/js/dni5jcut?42i"></script>
-```
 
 ## List of Current Providers - 96
 
