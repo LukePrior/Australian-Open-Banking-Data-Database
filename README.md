@@ -19,6 +19,15 @@ If you have any changes to the providers or documentation simply submit a pull r
 
 # GET REQUEST Example
 
+```ts
+// example.ts
+
+export function helloWorld(name: string): string {
+  return `Hello ${name}!, how are you today?`;
+}
+
+```
+
 [![Run the example](https://i.imgur.com/WlhTRX7.png)](https://reqbin.com/bcvvgx0p)
 
 ## List of Current Providers - 96
