@@ -11,22 +11,13 @@ This is an ongoing collection of Open Banking Data API URLs for Australian depos
 - [X] ~~Append `/cds-au/v1`~~
 - [X] ~~Add raw file~~
 - [ ] [Add API Status check](https://github.com/badges/shields/issues/5776)
-- [ ] Add functional code example
+- [X] ~~Add functional code example~~ Current best version
 
 ## Contributing
 
 If you have any changes to the providers or documentation simply submit a pull request updating this README or open an issue describing the problems.
 
 # GET REQUEST Example
-
-```ts
-// example.ts
-
-export function helloWorld(name: string): string {
-  return `Hello ${name}!, how are you today?`;
-}
-
-```
 
 [![Run the example](https://i.imgur.com/WlhTRX7.png)](https://reqbin.com/bcvvgx0p)
 
