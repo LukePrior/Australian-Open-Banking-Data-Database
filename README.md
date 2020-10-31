@@ -19,7 +19,7 @@ If you have any changes to the providers or documentation simply submit a pull r
 
 # GET REQUEST Example
 
-[![Run the example](https://i.imgur.com/XZOXcbP.png)](https://reqbin.com/bcvvgx0p)
+[![Run the example](https://i.imgur.com/WlhTRX7.png)](https://reqbin.com/bcvvgx0p)
 
 ## List of Current Providers - 96
 
