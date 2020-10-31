@@ -9,7 +9,7 @@ This is an ongoing collection of Open Banking Data API URLs for Australian depos
 - [X] ~~Find remaining URLs~~
 - [X] ~~Oragnise lists~~
 - [X] ~~Append `/cds-au/v1`~~
-- [ ] Add raw file
+- [X] ~~Add raw file~~
 - [ ] Add API Status check
 - [ ] Add functional code example
 
