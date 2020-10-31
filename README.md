@@ -28,7 +28,7 @@ National Australia Bank (NAB): https://openbank.api.nab.com.au
 
 **Regional Banks**
 ```
-Bank of Queensland (BOQ): ToDo
+Bank of Queensland (BOQ): https://secure.api.boq.com.au
 Macquarie Bank: https://api.macquariebank.io
 Bendigo Bank: https://api.cdr.bendigobank.com.au
 Adelaide Bank: https://api.cdr.adelaidebank.com.au
@@ -40,6 +40,7 @@ HSBC Bank: https://api.hsbc.com.au
 
 **Small Banks**
 ```
+Arab Bank Australia: https://openbanking-api.arabbank.com.au/public
 Sydney Mutual Bank: https://internetbanking.sydneymutual.bank/openbankingscu
 Endeavour Mutual Bank: https://netbank.endeavour.bank/openbankingesb
 Australian Unity Bank: https://open-banking.australianunity.com.au
@@ -69,6 +70,18 @@ Qudos Bank: https://public.cdr-api.qudosbank.com.au
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank
 MOVE Bank: https://api.movebank.com.au/OpenBanking
 Unity Bank: https://ibanking.unitybank.com.au/OpenBanking
+Bank Australia: https://cds.api.bankaust.com.au
+Bank of China Australia: https://obdevp.bank-of-china.net.au
+Bank of Sydney: https://openbank.api.banksyd.com.au
+Bankwest: https://open-api.bankwest.com.au/bwpublic
+Citibank: https://aspac.api.citi.com/gcb
+First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking
+Goldfields Money: https://prd.bnk.com.au
+MyState Bank: https://openbanking.api.mystate.com.au
+Rabobank: https://openbanking.api.rabobank.com.au
+Regional Australia Bank: https://public-data.cdr.regaustbank.io
+UBank: https://openbank.api.ubank.com.au
+Virgin Money Australia: https://secure.api.virginmoney.com.au
 ```
 
 **Credit Unions**
@@ -97,12 +110,17 @@ Transport Mutual Credit Union: https://banking.transportmutual.com.au/OpenBankin
 Bank First: https://ibank.bankfirst.com.au/openbanking
 Warwick Credit Union: https://ibanking.wcu.com.au/openbanking-warwick
 WAW Credit Union: https://onlinebanking.wawcu.com.au/OpenBanking
+bcu: https://ob-api.bcu.com.au
+Easy Street Financial Services: https://ebranch.easystreet.com.au/es-openbanking
+Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 ```
 
 **Neobanks**
 ```
 86 400: https://public.cdr-api.86400.com.au
 Volt Bank: https://api.voltbank.com.au
+Up: https://api.up.com.au
+Xinja Bank: https://cdr.openbank.api.xinja.com
 ```
 
 **Selective Banks / Credit Unions**
@@ -116,4 +134,6 @@ BankVic: https://ib.bankvic.com.au/openbanking
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank
 Traditional Credit Union: https://tcu.prd.cdr.systems
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking
+Police Bank: https://product.api.policebank.com.au
+QBANK: https://banking.qbank.com.au/openbanking
 ```
