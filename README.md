@@ -2,7 +2,7 @@
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/><img alt="GitHub Time Since Last Commit" src="https://img.shields.io/github/last-commit/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/>
 
 
-This is an ongoing collection of Open Banking Data APIs for Australian deposit taking institutions.
+This is an ongoing collection of Open Banking Data API URLs for Australian deposit taking institutions.
 
 ## ToDo
 - [X] ~~Classify Institutions~~
@@ -15,9 +15,9 @@ This is an ongoing collection of Open Banking Data APIs for Australian deposit t
 
 ## Contributing
 
-Simply submit a pull request updating this README.
+If you have any changes to the providers or documentation simply submit a pull request updating this README or open an issue describing the problems.
 
-## List of Current Providers
+## List of Current Providers - 96
 
 
 **Big Four Banks**
