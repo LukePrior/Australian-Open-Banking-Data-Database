@@ -17,9 +17,9 @@ This is an ongoing collection of Open Banking Data API URLs for Australian depos
 
 If you have any changes to the providers or documentation simply submit a pull request updating this README or open an issue describing the problems.
 
-# Code Example
+# GET REQUEST Example
 
-<script async src="https://cdn.reqbin.com/embed/js/dni5jcut?42i"></script>
+[![Run the example](https://i.imgur.com/XZOXcbP.png)](https://reqbin.com/bcvvgx0p)
 
 ## List of Current Providers - 96
 
