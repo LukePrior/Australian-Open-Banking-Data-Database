@@ -10,7 +10,7 @@ This is an ongoing collection of Open Banking Data APIs for Australian deposit t
 ## ToDo
 - [X] ~~Classify Institutions~~
 - [X] ~~Find remaining URLs~~
-- [ ] Oragnise lists
+- [X] ~~Oragnise lists~~
 - [ ] Add API Status check
 - [ ] Add functional code example
 
@@ -43,100 +43,100 @@ HSBC Bank: https://api.hsbc.com.au
 
 **Small Banks**
 ```
+AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au
 Arab Bank Australia: https://openbanking-api.arabbank.com.au/public
-Sydney Mutual Bank: https://internetbanking.sydneymutual.bank/openbankingscu
-Endeavour Mutual Bank: https://netbank.endeavour.bank/openbankingesb
 Australian Unity Bank: https://open-banking.australianunity.com.au
 Auswide Bank: https://api.auswidebank.com.au/OpenBanking
-Rural Bank: https://api.cdr.ruralbank.com.au
-Delphi Bank: https://api.cdr.delphibank.com.au
-AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au
 BDCU Alliance Bank: https://api.cdr.bdcualliancebank.com.au
-Circle Alliance Bank: https://api.cdr.circle.com.au
-Nova Alliance Bank: https://api.cdr.novaalliancebank.com.au
-Service One Alliance Bank: https://api.cdr.serviceone.com.au
+Bank Australia: https://cds.api.bankaust.com.au
+Bank of China Australia: https://obdevp.bank-of-china.net.au
+Bank of Sydney: https://openbank.api.banksyd.com.au
+Bankwest: https://open-api.bankwest.com.au/bwpublic
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au
 Cairns Bank: https://ibanking.cairnsbank.com.au/openbanking-penny
-Geelong Bank: https://online.geelongbank.com.au/OpenBanking
+Circle Alliance Bank: https://api.cdr.circle.com.au
+Citibank: https://aspac.api.citi.com/gcb
+Delphi Bank: https://api.cdr.delphibank.com.au
+Endeavour Mutual Bank: https://netbank.endeavour.bank/openbankingesb
+First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking
 G&C Mutual Bank: https://ibank.gcmutualbank.com.au/openbanking
 Gateway Bank: https://public.cdr-api.gatewaybank.com.au
+Geelong Bank: https://online.geelongbank.com.au/OpenBanking
+Goldfields Money: https://prd.bnk.com.au
 Greater Bank: https://public.cdr-api.greater.com.au
 Heritage Bank: https://product.api.heritage.com.au
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking
 Hume Bank: https://ibank.humebank.com.au/openbanking
 IMB Bank: https://api.openbanking.imb.com.au
 Judo Bank: https://open.judo.bank
-RACQ Bank: https://api2.racq.com.au/external
 ME Bank: https://api.mebank.com.au
+MOVE Bank: https://api.movebank.com.au/OpenBanking
 MyLife MyFinance: https://openbanking-api.mylifemyfinance.com.au
+MyState Bank: https://openbanking.api.mystate.com.au
+Nova Alliance Bank: https://api.cdr.novaalliancebank.com.au
 Qudos Bank: https://public.cdr-api.qudosbank.com.au
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank
-MOVE Bank: https://api.movebank.com.au/OpenBanking
-Unity Bank: https://ibanking.unitybank.com.au/OpenBanking
-Bank Australia: https://cds.api.bankaust.com.au
-Bank of China Australia: https://obdevp.bank-of-china.net.au
-Bank of Sydney: https://openbank.api.banksyd.com.au
-Bankwest: https://open-api.bankwest.com.au/bwpublic
-Citibank: https://aspac.api.citi.com/gcb
-First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking
-Goldfields Money: https://prd.bnk.com.au
-MyState Bank: https://openbanking.api.mystate.com.au
+RACQ Bank: https://api2.racq.com.au/external
 Rabobank: https://openbanking.api.rabobank.com.au
 Regional Australia Bank: https://public-data.cdr.regaustbank.io
+Rural Bank: https://api.cdr.ruralbank.com.au
+Service One Alliance Bank: https://api.cdr.serviceone.com.au
+Sydney Mutual Bank: https://internetbanking.sydneymutual.bank/openbankingscu
 UBank: https://openbank.api.ubank.com.au
+Unity Bank: https://ibanking.unitybank.com.au/OpenBanking
 Virgin Money Australia: https://secure.api.virginmoney.com.au
 ```
 
 **Credit Unions**
 ```
-People's Choice Credit Union: https://api.peopleschoice.com.au/public
+Bank First: https://ibank.bankfirst.com.au/openbanking
+Broken Hill Community Credit Union: https://public.cdr-api.bhccu.com.au
 Central West Credit Union: https://ib.cwcu.com.au/openbanking
 Coastline Credit Union: https://public.cdr-api.coastline.com.au
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking
-Credit Union Australia: https://openbanking.apiext.cua.com.au/cds-au
+Credit Union Australia: https://openbanking.apiext.cua.com.au
 Credit Union SA: https://openbanking.api.creditunionsa.com.au
 Dnister Ukrainian Credit Co-operative: https://public.cdr-api.dnister.com.au
+Easy Street Financial Services: https://ebranch.easystreet.com.au/es-openbanking
 Family First Credit Union: https://online.familyfirst.com.au/OpenBanking
 First Choice Credit Union: https://public.cdr-api.firstchoicecu.com.au
 Goulburn Murray Credit Union: https://gmcu.cds.cuscal.com.au
+Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking
 Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking
-The Mac Credit Union: https://onlinebanking.themaccu.com.au/OpenBanking
-South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking
-Southern Cross Credit Union: https://mvp1.sccu.com.au/OpenBanking
-South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking
-Summerland Credit Union: https://public.cdr-api.summerland.com.au
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au
 Northern Inland Credit Union: https://nicu.prd.cdr.systems
-Broken Hill Community Credit Union: https://public.cdr-api.bhccu.com.au
+People's Choice Credit Union: https://api.peopleschoice.com.au/public
+South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking
+South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking
+Southern Cross Credit Union: https://mvp1.sccu.com.au/OpenBanking
+Summerland Credit Union: https://public.cdr-api.summerland.com.au
 The Capricornian: https://onlinebanking.capricornian.com.au/OpenBanking
+The Mac Credit Union: https://onlinebanking.themaccu.com.au/OpenBanking
 Transport Mutual Credit Union: https://banking.transportmutual.com.au/OpenBanking
-Bank First: https://ibank.bankfirst.com.au/openbanking
-Warwick Credit Union: https://ibanking.wcu.com.au/openbanking-warwick
 WAW Credit Union: https://onlinebanking.wawcu.com.au/OpenBanking
+Warwick Credit Union: https://ibanking.wcu.com.au/openbanking-warwick
 bcu: https://ob-api.bcu.com.au
-Easy Street Financial Services: https://ebranch.easystreet.com.au/es-openbanking
-Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 ```
 
 **Neobanks**
 ```
 86 400: https://public.cdr-api.86400.com.au
-Volt Bank: https://api.voltbank.com.au
 Up: https://api.up.com.au
+Volt Bank: https://api.voltbank.com.au
 Xinja Bank: https://cdr.openbank.api.xinja.com
 ```
 
 **Selective Banks / Credit Unions**
 ```
 Australian Military Bank: https://product.api.australianmilitarybank.com.au
+BankVic: https://ib.bankvic.com.au/openbanking
 Defence Bank: https://defencebank.prd.cdr.systems
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au
 P&N Bank: https://ob-api.pnbank.com.au
+Police Bank: https://product.api.policebank.com.au
 Police Credit Union: https://api.policecu.com.au/openbanking
-BankVic: https://ib.bankvic.com.au/openbanking
+QBANK: https://banking.qbank.com.au/openbanking
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank
 Traditional Credit Union: https://tcu.prd.cdr.systems
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking
-Police Bank: https://product.api.policebank.com.au
-QBANK: https://banking.qbank.com.au/openbanking
 ```
