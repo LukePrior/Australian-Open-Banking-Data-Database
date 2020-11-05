@@ -5,13 +5,7 @@
 This is an ongoing collection of Open Banking Data API URLs for Australian deposit taking institutions.
 
 ## ToDo
-- [X] ~~Classify Institutions~~
-- [X] ~~Find remaining URLs~~
-- [X] ~~Oragnise lists~~
-- [X] ~~Append `/cds-au/v1`~~
-- [X] ~~Add raw file~~
 - [ ] [Add API Status check](https://github.com/badges/shields/issues/5776)
-- [X] ~~Add functional code example~~ Current best version
 
 ## Contributing
 
