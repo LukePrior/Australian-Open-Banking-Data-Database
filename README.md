@@ -7,15 +7,19 @@ This repositry is an ongoing collection of Open Banking Data API endpoint URLs f
 
 ## Getting Started ##
 
-To access any product reference data you need to send a HTTP request to the appropraite banking API url. The two available Banking APIs are [Get Products](https://consumerdatastandardsaustralia.github.io/standards/#get-products) and [Get Product Detail](https://consumerdatastandardsaustralia.github.io/standards/#get-product-detail).
+To access any product reference data you need to send a HTTP request to the appropraite banking API URL. The two available Banking APIs are [Get Products](https://consumerdatastandardsaustralia.github.io/standards/#get-products) and [Get Product Detail](https://consumerdatastandardsaustralia.github.io/standards/#get-product-detail).
 
 **Get Products**
 
 This API returns a list of products currently offered by the financial institution to the market.
 
+`https://data.holder.com.au/cds-au/v1/banking/products`
+
 **Get Product Detail**
 
 This API returns detailed information on a single product offered by the financial institutions.
+
+`https://data.holder.com.au/cds-au/v1/banking/products/{productId}`
 
 ## Contributing
 
