@@ -66,7 +66,6 @@ url = "https://api.anz/cds-au/v1/banking/products"
 headers = CaseInsensitiveDict()
 headers["x-v"] = "2"
 
-
 resp = requests.get(url, headers=headers)
 
 print(resp.content)
@@ -80,7 +79,6 @@ var url = "https://api.anz/cds-au/v1/banking/products";
 var httpRequest = (HttpWebRequest)WebRequest.Create(url);
 
 httpRequest.Headers["x-v"] = "2";
-
 
 var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
@@ -162,7 +160,6 @@ url = "https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d81b26
 headers = CaseInsensitiveDict()
 headers["x-v"] = "2"
 
-
 resp = requests.get(url, headers=headers)
 
 print(resp.content)
@@ -176,7 +173,6 @@ var url = "https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d8
 var httpRequest = (HttpWebRequest)WebRequest.Create(url);
 
 httpRequest.Headers["x-v"] = "2";
-
 
 var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
