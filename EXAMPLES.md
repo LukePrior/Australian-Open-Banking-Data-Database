@@ -91,6 +91,12 @@ Console.WriteLine(httpResponse.StatusCode);
 
 **Curl**
 
+```Curl
+#!/bin/bash
+
+curl -X GET https://api.anz/cds-au/v1/banking/products -H "x-v: 2" 
+```
+
 ## Get Product Detail
 
 This API returns detailed information on a single product offered by the financial institutions.
