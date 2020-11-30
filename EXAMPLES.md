@@ -67,7 +67,7 @@ headers["x-v"] = "2"
 
 resp = requests.get(url, headers=headers)
 
-print(resp.status_code)
+print(resp.content)
 ```
 
 **C#**
@@ -162,7 +162,7 @@ headers["x-v"] = "2"
 
 resp = requests.get(url, headers=headers)
 
-print(resp.status_code)
+print(resp.content)
 ```
 
 **C#**
