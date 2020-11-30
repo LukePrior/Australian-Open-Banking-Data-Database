@@ -36,6 +36,23 @@ var_dump($resp);
 
 **JavaScript**
 
+```JavaScript
+var url = "https://api.anz/cds-au/v1/banking/products";
+
+var xhr = new XMLHttpRequest();
+xhr.open("GET", url);
+
+xhr.setRequestHeader("x-v", "2");
+
+xhr.onreadystatechange = function () {
+   if (xhr.readyState === 4) {
+      console.log(xhr.status);
+      console.log(xhr.responseText);
+   }};
+
+xhr.send();
+```
+
 **Python**
 
 **C#**
