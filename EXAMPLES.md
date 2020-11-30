@@ -91,7 +91,7 @@ Console.WriteLine(httpResponse.StatusCode);
 
 **Curl**
 
-```cURL
+```
 #!/bin/bash
 
 curl -X GET https://api.anz/cds-au/v1/banking/products -H "x-v: 2" 
