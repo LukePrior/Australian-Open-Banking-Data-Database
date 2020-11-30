@@ -55,6 +55,21 @@ xhr.send();
 
 **Python**
 
+```Python
+import requests
+from requests.structures import CaseInsensitiveDict
+
+url = "https://api.anz/cds-au/v1/banking/products"
+
+headers = CaseInsensitiveDict()
+headers["x-v"] = "2"
+
+
+resp = requests.get(url, headers=headers)
+
+print(resp.status_code)
+```
+
 **C#**
 
 **Curl**
