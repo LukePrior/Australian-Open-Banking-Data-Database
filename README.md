@@ -13,7 +13,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Phasing table
 
-[Phaing Table](phasing-table.jpg)
+![Phasing Table](phasing-table.jpg)
 
 ## GET REQUEST Example
 
