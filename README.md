@@ -3,9 +3,19 @@
 
 On 26 November 2017, the Australian Government announced the introduction of a consumer data right (CDR) in Australia. The CDR will first apply to the banking sector with a [phased introduction](#phasing-table), currently the only publically available data is product reference data which includes credit and debit cards, deposit accounts, transaction accounts, mortgages, and personal loans. Consumer data is only available to [acreddited institutions](https://www.cdr.gov.au/find-a-provider?providerType=Data%2520Recipient). Personal access to consumer data is set to be implemented post November 2021.
 
-This is an ongoing collection of Open Banking Data API endpoint URLs for Australian deposit taking institutions.
+This repositry is an ongoing collection of Open Banking Data API endpoint URLs for Australian deposit taking institutions. The API specifications for these endpoints can be found [here](https://consumerdatastandardsaustralia.github.io/standards/#future-dated-obligations).
 
 ## Getting Started ##
+
+To access any product reference data you need to send a HTTP request to the appropraite banking API url. The two available Banking APIs are [Get Products](https://consumerdatastandardsaustralia.github.io/standards/#get-products) and [Get Product Detail](https://consumerdatastandardsaustralia.github.io/standards/#get-product-detail).
+
+**Get Products**
+
+This API returns a list of products currently offered by the financial institution to the market.
+
+**Get Product Detail**
+
+This API returns detailed information on a single product offered by the financial institutions.
 
 ## Contributing
 
