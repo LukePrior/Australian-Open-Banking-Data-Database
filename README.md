@@ -1,12 +1,19 @@
 # Australian Open Banking Data Database
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/><img alt="GitHub Time Since Last Commit" src="https://img.shields.io/github/last-commit/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/>
 
+On 26 November 2017, the Australian Government announced the introduction of a consumer data right (CDR) in Australia. The CDR will first apply to the banking sector with a [phased introduction](#phasing-table) 
 
-This is an ongoing collection of Open Banking Data API URLs for Australian deposit taking institutions.
+This is an ongoing collection of Open Banking Data API endpoint URLs for Australian deposit taking institutions.
+
+## Getting Started ##
 
 ## Contributing
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Phasing table
+
+[Phaing Table](phasing-table.jpg)
 
 ## GET REQUEST Example
 
