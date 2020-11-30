@@ -15,6 +15,12 @@ This API returns a list of products currently offered by the financial instituti
 
 `https://data.holder.com.au/cds-au/v1/banking/products`
 
+*Example*
+
+You can run the following example from CMD.
+
+`curl -X GET https://api.anz/cds-au/v1/banking/products -H "x-v: 2"`
+
 **Get Product Detail**
 
 This API returns detailed information on a single product offered by the financial institutions.
