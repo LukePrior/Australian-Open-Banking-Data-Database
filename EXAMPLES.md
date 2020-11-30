@@ -72,6 +72,23 @@ print(resp.status_code)
 
 **C#**
 
+```C#
+var url = "https://api.anz/cds-au/v1/banking/products";
+
+var httpRequest = (HttpWebRequest)WebRequest.Create(url);
+
+httpRequest.Headers["x-v"] = "2";
+
+
+var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
+using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
+{
+   var result = streamReader.ReadToEnd();
+}
+
+Console.WriteLine(httpResponse.StatusCode);
+```
+
 **Curl**
 
 ## Get Product Detail
