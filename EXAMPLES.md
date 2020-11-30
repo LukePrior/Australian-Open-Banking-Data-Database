@@ -10,6 +10,30 @@ This API returns a list of products currently offered by the financial instituti
 
 **PHP**
 
+```
+<?php
+
+$url = "https://api.anz/cds-au/v1/banking/products";
+
+$curl = curl_init($url);
+curl_setopt($curl, CURLOPT_URL, $url);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+
+$headers = array(
+   "x-v: 2",
+);
+curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
+//for debug only!
+curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
+curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+
+$resp = curl_exec($curl);
+curl_close($curl);
+var_dump($resp);
+
+?>
+```
+
 **JavaScript**
 
 **Python**
