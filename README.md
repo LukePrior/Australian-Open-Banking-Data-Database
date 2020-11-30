@@ -21,10 +21,6 @@ This API returns detailed information on a single product offered by the financi
 
 `https://data.holder.com.au/cds-au/v1/banking/products/{productId}`
 
-## Contributing
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
 ## Phasing table
 
 ![Phasing Table](phasing-table.jpg)
@@ -155,6 +151,10 @@ Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
 Traditional Credit Union: https://tcu.prd.cdr.systems/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
+
+## Contributing
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
