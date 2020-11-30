@@ -25,11 +25,9 @@ This API returns detailed information on a single product offered by the financi
 
 ![Phasing Table](phasing-table.jpg)
 
-## GET REQUEST Example
-
-[![Run the example](https://i.imgur.com/WlhTRX7.png)](https://reqbin.com/bcvvgx0p)
-
 ## List of Current Providers - 96
+
+This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The insitutions have been classified into unique categories, the complete unsorted list of API endpoints can be found [here](complete.txt).
 
 
 **Big Four Banks**
