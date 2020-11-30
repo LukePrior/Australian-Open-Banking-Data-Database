@@ -10,7 +10,7 @@ This API returns a list of products currently offered by the financial instituti
 
 **PHP**
 
-```
+```PHP
 <?php
 
 $url = "https://api.anz/cds-au/v1/banking/products";
