@@ -37,10 +37,12 @@ var_dump($resp);
 **JavaScript**
 
 ```JavaScript
+const proxyurl = "https://cors-anywhere.herokuapp.com/";
+
 var url = "https://api.anz/cds-au/v1/banking/products";
 
 var xhr = new XMLHttpRequest();
-xhr.open("GET", url);
+xhr.open("GET", proxyurl + url);
 
 xhr.setRequestHeader("x-v", "2");
 
@@ -132,10 +134,12 @@ var_dump($resp);
 **JavaScript**
 
 ```JavaScript
+const proxyurl = "https://cors-anywhere.herokuapp.com/";
+
 var url = "https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d81b260ee260";
 
 var xhr = new XMLHttpRequest();
-xhr.open("GET", url);
+xhr.open("GET", proxyurl + url);
 
 xhr.setRequestHeader("x-v", "2");
 
