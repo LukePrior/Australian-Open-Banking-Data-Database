@@ -6,7 +6,7 @@ This is an ongoing collection of Open Banking Data API URLs for Australian depos
 
 ## Contributing
 
-If you have any changes to the providers or documentation simply submit a pull request updating this README or open an issue describing the problems.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## GET REQUEST Example
 
