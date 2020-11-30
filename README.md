@@ -155,3 +155,7 @@ Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
 Traditional Credit Union: https://tcu.prd.cdr.systems/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
