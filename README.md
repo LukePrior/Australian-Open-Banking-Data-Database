@@ -29,6 +29,10 @@ You can run the following example from CMD.
 
 `curl -X GET https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d81b260ee260 -H "x-v: 2"`
 
+## Examples
+
+Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
+
 ## Phasing table
 
 ![Phasing Table](phasing-table.jpg)
