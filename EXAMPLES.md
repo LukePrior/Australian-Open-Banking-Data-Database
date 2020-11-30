@@ -86,9 +86,8 @@ var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
 {
    var result = streamReader.ReadToEnd();
+   Console.WriteLine(result);
 }
-
-Console.WriteLine(httpResponse.StatusCode);
 ```
 
 **Curl**
@@ -183,9 +182,8 @@ var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
 {
    var result = streamReader.ReadToEnd();
+   Console.WriteLine(result);
 }
-
-Console.WriteLine(httpResponse.StatusCode);
 ```
 
 **Curl**
