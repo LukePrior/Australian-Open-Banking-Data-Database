@@ -33,6 +33,8 @@ You can run the following example from CMD.
 
 Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 
+A jupyter notebook is available to download [here](Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
+
 ## Phasing table
 
 ![Phasing Table](phasing-table.jpg)
