@@ -164,7 +164,7 @@ Traditional Credit Union: https://tcu.prd.cdr.systems/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
 
-##Consumer Data Standards Redocs
+## Consumer Data Standards Redocs
 
 [DSB Standards](https://bizaio.github.io/dsb-standards/)
 
