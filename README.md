@@ -1,7 +1,7 @@
 # Australian Open Banking Data Database
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/><img alt="GitHub Time Since Last Commit" src="https://img.shields.io/github/last-commit/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/>
 
-<img alt="Testing" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.commbank.com.au%2Fpublic"/>
+<img alt="Testing" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.commbank.com.au%2Fpubllic"/>
 
 On 26 November 2017, the Australian Government announced the introduction of a consumer data right (CDR) in Australia. The CDR will first apply to the banking sector with a [phased introduction](#phasing-table), currently the only publically available data is product reference data which includes credit and debit cards, deposit accounts, transaction accounts, mortgages, and personal loans. Consumer data is only available to [acreddited institutions](https://www.cdr.gov.au/find-a-provider?providerType=Data%2520Recipient). Personal access to consumer data is set to be implemented post November 2021.
 
