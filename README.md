@@ -46,7 +46,7 @@ This is the current list of Australian deposit taking institutions and their res
 
 **Big Four Banks**
 
-<img alt="CBA" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.commbank.com.au%2Fpublic"/><img alt="Westpac" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fdigital-api.westpac.com.au"/><img alt="ANZ" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.anz"/><img alt="NAB" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fopenbank.api.nab.com.au"/>
+<img alt="CBA" src="https://img.shields.io/endpoint?label=API%20Status%20%28CBA%29&url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.commbank.com.au%2Fpublic"/><img alt="Westpac" src="https://img.shields.io/endpoint?label=API%20Status%20%28Westpac%29&url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fdigital-api.westpac.com.au"/><img alt="ANZ" src="https://img.shields.io/endpoint?label=API%20Status%20%28ANZ%29&url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.anz"/><img alt="NAB" src="https://img.shields.io/endpoint?label=API%20Status%20%28NAB%29&url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fopenbank.api.nab.com.au"/>
 ```
 Commonwealth Bank of Australia (CBA): https://api.commbank.com.au/public/cds-au/v1
 Westpac Banking Corporation (Westpac): https://digital-api.westpac.com.au/cds-au/v1
