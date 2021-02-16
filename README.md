@@ -1,8 +1,6 @@
 # Australian Open Banking Data Database
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/><img alt="GitHub Time Since Last Commit" src="https://img.shields.io/github/last-commit/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/>
 
-<img alt="Testing" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.commbank.com.au%2Fpubllic"/>
-
 On 26 November 2017, the Australian Government announced the introduction of a consumer data right (CDR) in Australia. The CDR will first apply to the banking sector with a [phased introduction](#phasing-table), currently the only publically available data is product reference data which includes credit and debit cards, deposit accounts, transaction accounts, mortgages, and personal loans. Consumer data is only available to [acreddited institutions](https://www.cdr.gov.au/find-a-provider?providerType=Data%2520Recipient). Personal access to consumer data is set to be implemented post November 2021.
 
 This repositry is an ongoing collection of Open Banking Data API endpoint URLs for Australian deposit taking institutions. The API specifications for these endpoints can be found [here](https://consumerdatastandardsaustralia.github.io/standards/#future-dated-obligations).
@@ -47,12 +45,12 @@ This is the current list of Australian deposit taking institutions and their res
 
 
 **Big Four Banks**
-```
-Commonwealth Bank of Australia (CBA): https://api.commbank.com.au/cds-au/v1
-Westpac Banking Corporation (Westpac): https://digital-api.westpac.com.au/cds-au/v1
-Australia and New Zealand Banking Group (ANZ): https://api.anz/cds-au/v1
-National Australia Bank (NAB): https://openbank.api.nab.com.au/cds-au/v1
-```
+
+* Commonwealth Bank of Australia (CBA): https://api.commbank.com.au/cds-au/v1 <img alt="CBA" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmy-first-playground-5kyn70wrtdm0.runkit.sh%2Fapi.commbank.com.au%2Fpublic"/>
+* Westpac Banking Corporation (Westpac): https://digital-api.westpac.com.au/cds-au/v1
+* Australia and New Zealand Banking Group (ANZ): https://api.anz/cds-au/v1
+* National Australia Bank (NAB): https://openbank.api.nab.com.au/cds-au/v1
+
 
 **Regional Banks**
 ```
