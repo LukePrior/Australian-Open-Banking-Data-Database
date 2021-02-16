@@ -99,7 +99,7 @@ MyState Bank: https://openbanking.api.mystate.com.au/cds-au/v1
 Nova Alliance Bank: https://api.cdr.novaalliancebank.com.au/cds-au/v1
 Qudos Bank: https://public.cdr-api.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
-RACQ Bank: https://api2.racq.com.au/external/cds-au/v1
+RACQ Bank: https://cdrbank.racq.com.au/cds-au/v1
 Rabobank: https://openbanking.api.rabobank.com.au/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
