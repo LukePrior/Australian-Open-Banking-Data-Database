@@ -167,7 +167,7 @@ Traditional Credit Union: http://tcu.prd.cdr.systems/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
 
-**NOTE: Defence Bank, Northern Inland Credit Union, Traditional Credit Union need HTTP and won't work with HTTPS**
+*NOTE: Defence Bank, Northern Inland Credit Union, Traditional Credit Union need HTTP and won't work with HTTPS*
 
 ## Consumer Data Standards Redocs
 
