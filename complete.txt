@@ -1,5 +1,5 @@
 86 400: https://public.cdr-api.86400.com.au/cds-au/v1
-AMP: https://cdr-api.amp.com.au/cds-au/v1
+AMP: https://api.cdr-api.amp.com.au/cds-au/v1
 AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au/cds-au/v1
 Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
 Arab Bank Australia: https://openbanking-api.arabbank.com.au/public/cds-au/v1
