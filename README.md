@@ -146,7 +146,6 @@ bcu: https://ob-api.bcu.com.au/cds-au/v1
 86 400: https://public.cdr-api.86400.com.au/cds-au/v1
 Up: https://api.up.com.au/cds-au/v1
 Volt Bank: https://api.voltbank.com.au/cds-au/v1
-Xinja Bank: https://cdr.openbank.api.xinja.com/cds-au/v1
 ```
 
 **Selective Banks / Credit Unions**
