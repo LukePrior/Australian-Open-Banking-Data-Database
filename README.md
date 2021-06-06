@@ -37,7 +37,8 @@ A jupyter notebook is available to download [here](Australian_Open_Banking_Data.
 
 ## Phasing table
 
-![Phasing Table](phasing-table.jpg)
+![Phasing Diagram](phasing.png)
+![Phases](phases.png)
 
 ## List of Current Providers - 96
 
