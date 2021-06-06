@@ -167,10 +167,6 @@ Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-a
 
 *NOTE: Defence Bank, Northern Inland Credit Union, Traditional Credit Union need HTTP and won't work with HTTPS*
 
-## Consumer Data Standards Redocs
-
-[DSB Standards](https://bizaio.github.io/dsb-standards/)
-
 ## Contributing
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
