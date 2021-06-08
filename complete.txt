@@ -76,7 +76,7 @@ South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking/cds
 South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking/cds-au/v1
 Southern Cross Credit Union: https://mvp1.sccu.com.au/OpenBanking/cds-au/v1
 Summerland Credit Union: https://public.cdr-api.summerland.com.au/cds-au/v1
-Suncorp: https://api-pub-cdr.suncorpbank.com.au/cds-au/v1
+Suncorp: https://prd.suncorpbank.com.au/cds-au/v1
 Sydney Mutual Bank: https://internetbanking.sydneymutual.bank/openbankingscu/cds-au/v1
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
 The Capricornian: https://onlinebanking.capricornian.com.au/OpenBanking/cds-au/v1
