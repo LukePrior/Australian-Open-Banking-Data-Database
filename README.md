@@ -167,6 +167,12 @@ Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-a
 
 *NOTE: Defence Bank, Northern Inland Credit Union, Traditional Credit Union need HTTP and won't work with HTTPS*
 
+## Consumer Data Right Register
+
+This API returns all active Consumer Data Right Holders and Recipients.
+
+https://api.cdr.gov.au/cdr-register/v1/banking/register
+
 ## Contributing
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
