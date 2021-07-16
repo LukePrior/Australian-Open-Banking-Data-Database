@@ -152,7 +152,7 @@ Volt Bank: https://api.voltbank.com.au/cds-au/v1
 
 **Selective Banks / Credit Unions**
 ```
-Australian Military Bank: https://product.api.australianmilitarybank.com.au/cds-au/v1
+Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-au/v1
 BankVic: https://ib.bankvic.com.au/openbanking/cds-au/v1
 Defence Bank: http://defencebank.prd.cdr.systems/cds-au/v1
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au/cds-au/v1
@@ -160,6 +160,7 @@ P&N Bank: https://ob-api.pnbank.com.au/cds-au/v1
 Police Bank: https://product.api.policebank.com.au/cds-au/v1
 Police Credit Union: https://api.policecu.com.au/openbanking/cds-au/v1
 QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
+RSL Money: https://public.open.rslmoney.com.au/cds-au/v1
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
 Traditional Credit Union: http://tcu.prd.cdr.systems/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
