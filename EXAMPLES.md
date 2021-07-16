@@ -20,7 +20,7 @@ curl_setopt($curl, CURLOPT_URL, $url);
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 
 $headers = array(
-   "x-v: 2",
+   "x-v: 3",
 );
 curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
 //for debug only!
@@ -44,7 +44,7 @@ var url = "https://api.anz/cds-au/v1/banking/products";
 var xhr = new XMLHttpRequest();
 xhr.open("GET", proxyurl + url);
 
-xhr.setRequestHeader("x-v", "2");
+xhr.setRequestHeader("x-v", "3");
 
 xhr.onreadystatechange = function () {
    if (xhr.readyState === 4) {
@@ -64,7 +64,7 @@ from requests.structures import CaseInsensitiveDict
 url = "https://api.anz/cds-au/v1/banking/products"
 
 headers = CaseInsensitiveDict()
-headers["x-v"] = "2"
+headers["x-v"] = "3"
 
 resp = requests.get(url, headers=headers)
 
@@ -78,7 +78,7 @@ var url = "https://api.anz/cds-au/v1/banking/products";
 
 var httpRequest = (HttpWebRequest)WebRequest.Create(url);
 
-httpRequest.Headers["x-v"] = "2";
+httpRequest.Headers["x-v"] = "3";
 
 var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
@@ -93,7 +93,7 @@ using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
 ```
 #!/bin/bash
 
-curl -X GET https://api.anz/cds-au/v1/banking/products -H "x-v: 2" 
+curl -X GET https://api.anz/cds-au/v1/banking/products -H "x-v: 3" 
 ```
 
 ## Get Product Detail
@@ -114,7 +114,7 @@ curl_setopt($curl, CURLOPT_URL, $url);
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 
 $headers = array(
-   "x-v: 2",
+   "x-v: 3",
 );
 curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
 //for debug only!
@@ -138,7 +138,7 @@ var url = "https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d8
 var xhr = new XMLHttpRequest();
 xhr.open("GET", proxyurl + url);
 
-xhr.setRequestHeader("x-v", "2");
+xhr.setRequestHeader("x-v", "3");
 
 xhr.onreadystatechange = function () {
    if (xhr.readyState === 4) {
@@ -158,7 +158,7 @@ from requests.structures import CaseInsensitiveDict
 url = "https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d81b260ee260"
 
 headers = CaseInsensitiveDict()
-headers["x-v"] = "2"
+headers["x-v"] = "3"
 
 resp = requests.get(url, headers=headers)
 
@@ -172,7 +172,7 @@ var url = "https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d8
 
 var httpRequest = (HttpWebRequest)WebRequest.Create(url);
 
-httpRequest.Headers["x-v"] = "2";
+httpRequest.Headers["x-v"] = "3";
 
 var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
@@ -187,5 +187,5 @@ using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
 ```
 #!/bin/bash
 
-curl -X GET https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d81b260ee260 -H "x-v: 2" 
+curl -X GET https://api.anz/cds-au/v1/banking/products/5eb62ffc-51f0-6ac0-2abf-d81b260ee260 -H "x-v: 3" 
 ```
