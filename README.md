@@ -9,7 +9,7 @@ This repositry is an ongoing collection of Open Banking Data API endpoint URLs f
 
 To access any product reference data you need to send a HTTP request with the required parameters to the appropraite banking API URL. The two available Banking APIs are [Get Products](https://consumerdatastandardsaustralia.github.io/standards/#get-products) and [Get Product Detail](https://consumerdatastandardsaustralia.github.io/standards/#get-product-detail).
 
-The easiest way to get started is the Swagger UI [page](https://generator.swagger.io/?url=https://raw.githubusercontent.com/projecthorus/sondehub-infra/main/swagger.yaml) which has all the endpoints imported and the required fields documented.
+The easiest way to get started is the Swagger UI [page](https://generator.swagger.io/?url=https://raw.githubusercontent.com/LukePrior/Australian-Open-Banking-Data-Database/main/examples/CDS-Products.yaml) which has all the endpoints imported and the required fields documented.
 
 **Get Products**
 
@@ -33,7 +33,7 @@ You can run the following example from CMD.
 
 ## Examples
 
-You can use the [Swagger UI](https://generator.swagger.io/?url=https://raw.githubusercontent.com/projecthorus/sondehub-infra/main/swagger.yaml) to easily test the APIs for any bank.
+You can use the [Swagger UI](https://generator.swagger.io/?url=https://raw.githubusercontent.com/LukePrior/Australian-Open-Banking-Data-Database/main/examples/CDS-Products.yaml) to easily test the APIs for any bank.
 
 Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 
