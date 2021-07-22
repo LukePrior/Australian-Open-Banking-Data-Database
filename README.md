@@ -33,17 +33,17 @@ You can run the following example from CMD.
 
 Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 
-A jupyter notebook is available to download [here](Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
+A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
 ## Phasing table
 
-![Phasing Diagram](phasing.png)
-![Phasing Diagram](phasing2.png)
-![Phases](phases.png)
+![Phasing Diagram](assets/phasing.png)
+![Phasing Diagram](assets/phasing2.png)
+![Phases](assets/phases.png)
 
 ## List of Current Providers - 96
 
-This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The insitutions have been classified into unique categories, the complete unsorted list of API endpoints can be found [here](complete.txt).
+This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The insitutions have been classified into unique categories, the complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
 
 **Big Four Banks**
