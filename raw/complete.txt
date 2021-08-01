@@ -25,7 +25,6 @@ Citibank: https://aspac.api.citi.com/gcb/cds-au/v1
 Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
 Commonwealth Bank of Australia (CBA): https://api.commbank.com.au/public/cds-au/v1
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1
-Credit Union Australia: https://openbanking.apiext.cua.com.au/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
 Defence Bank: http://defencebank.prd.cdr.systems/cds-au/v1
 Delphi Bank: https://api.cdr.delphibank.com.au/cds-au/v1
@@ -41,6 +40,7 @@ Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
 Geelong Bank: https://online.geelongbank.com.au/OpenBanking/cds-au/v1
 Goldfields Money: https://prd.bnk.com.au/cds-au/v1
 Goulburn Murray Credit Union: https://gmcu.cds.cuscal.com.au/cds-au/v1
+Great Southern Bank: https://openbanking.apiext.cua.com.au/cds-au/v1
 Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
 HSBC Bank: https://api.hsbc.com.au/cds-au/v1
 Heritage Bank: https://product.api.heritage.com.au/cds-au/v1
