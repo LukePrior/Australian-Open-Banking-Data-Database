@@ -166,7 +166,7 @@ Police Credit Union: https://api.policecu.com.au/openbanking/cds-au/v1
 QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
 RSL Money: https://public.open.rslmoney.com.au/cds-au/v1
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
-Traditional Credit Union: http://tcu.prd.cdr.systems/cds-au/v1
+Traditional Credit Union: https://prd.tcu.com.au/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
 
