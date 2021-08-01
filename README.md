@@ -133,7 +133,7 @@ Great Southern Bank: https://openbanking.apiext.cua.com.au/cds-au/v1
 Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking/cds-au/v1
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au/cds-au/v1
-Northern Inland Credit Union: http://nicu.prd.cdr.systems/cds-au/v1
+Northern Inland Credit Union: https://prd.nicu.com.au/cds-au/v1
 People's Choice Credit Union: https://api.peopleschoice.com.au/public/cds-au/v1
 South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking/cds-au/v1
 South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking/cds-au/v1
