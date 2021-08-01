@@ -123,13 +123,13 @@ Broken Hill Community Credit Union: https://public.cdr-api.bhccu.com.au/cds-au/v
 Central West Credit Union: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1
-Great Southern Bank: https://openbanking.apiext.cua.com.au/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
 Dnister Ukrainian Credit Co-operative: https://public.cdr-api.dnister.com.au/cds-au/v1
 Easy Street Financial Services: https://ebranch.easystreet.com.au/es-openbanking/cds-au/v1
 Family First Credit Union: https://online.familyfirst.com.au/OpenBanking/cds-au/v1
 First Choice Credit Union: https://public.cdr-api.firstchoicecu.com.au/cds-au/v1
 Goulburn Murray Credit Union: https://gmcu.cds.cuscal.com.au/cds-au/v1
+Great Southern Bank: https://openbanking.apiext.cua.com.au/cds-au/v1
 Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking/cds-au/v1
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au/cds-au/v1
