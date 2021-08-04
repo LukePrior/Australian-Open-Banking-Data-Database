@@ -26,7 +26,7 @@ Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
 Commonwealth Bank of Australia (CBA): https://api.commbank.com.au/public/cds-au/v1
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
-Defence Bank: http://defencebank.prd.cdr.systems/cds-au/v1
+Defence Bank: https://product.defencebank.com.au/cds-au/v1
 Delphi Bank: https://api.cdr.delphibank.com.au/cds-au/v1
 Dnister Ukrainian Credit Co-operative: https://public.cdr-api.dnister.com.au/cds-au/v1
 Easy Street Financial Services: https://ebranch.easystreet.com.au/es-openbanking/cds-au/v1
