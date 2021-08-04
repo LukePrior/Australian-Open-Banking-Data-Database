@@ -174,8 +174,6 @@ Traditional Credit Union: https://prd.tcu.com.au/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
 
-*NOTE: Northern Inland Credit Union, Traditional Credit Union need HTTP and won't work with HTTPS*
-
 *NOTE: CitiBank also requires the `Accept: application/json` header to be sent*
 
 ## Consumer Data Right Register
