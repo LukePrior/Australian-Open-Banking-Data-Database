@@ -105,7 +105,7 @@ Judo Bank: https://open.judo.bank/cds-au/v1
 ME Bank: https://api.mebank.com.au/cds-au/v1
 MOVE Bank: https://api.movebank.com.au/OpenBanking/cds-au/v1
 MyLife MyFinance: https://openbanking-api.mylifemyfinance.com.au/cds-au/v1
-MyState Bank: https://openbanking.api.mystate.com.au/cds-au/v1
+MyState Bank: https://openbanking.api.mystate.com.au/public/cds-au/v1
 Nova Alliance Bank: https://api.cdr.novaalliancebank.com.au/cds-au/v1
 Qudos Bank: https://public.cdr-api.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
