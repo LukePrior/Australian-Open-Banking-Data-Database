@@ -175,6 +175,7 @@ Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-a
 ```
 
 *NOTE: Defence Bank, Northern Inland Credit Union, Traditional Credit Union need HTTP and won't work with HTTPS*
+*NOTE: Citi Bank also requires the `Accept: application/json` header to be sent*
 
 ## Consumer Data Right Register
 
