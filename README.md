@@ -157,6 +157,7 @@ Up: https://api.up.com.au/cds-au/v1
 Volt Bank: https://api.voltbank.com.au/cds-au/v1
 Leveraged: https://api.cdr.leveraged.com.au/cds-au/v1
 PayPal: https://api.paypal.com/v1/identity/cds-au/v1
+Tyro: https://public.cdr.tyro.com/cds-au/v1
 ```
 
 **Selective Banks / Credit Unions**
