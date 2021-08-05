@@ -128,6 +128,7 @@ Goulburn Murray Credit Union: https://gmcu.cds.cuscal.com.au/cds-au/v1
 Great Southern Bank: https://openbanking.apiext.cua.com.au/cds-au/v1
 Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking/cds-au/v1
+Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union: https://prd.nicu.com.au/cds-au/v1
 People's Choice Credit Union: https://api.peopleschoice.com.au/public/cds-au/v1
