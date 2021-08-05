@@ -41,7 +41,7 @@ You can run the following example from CMD.
 
 You can view the uptime and status for each endpoint [here](https://lukeprior.github.io/OpenBankingUptime).
 
-## List of Current Providers - 96
+## List of Current Providers - 108
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The insitutions have been classified into unique categories, the complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
