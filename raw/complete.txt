@@ -54,6 +54,7 @@ Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking/cds-au
 ME Bank: https://api.mebank.com.au/cds-au/v1
 MOVE Bank: https://api.movebank.com.au/OpenBanking/cds-au/v1
 Macquarie Bank: https://api.macquariebank.io/cds-au/v1
+Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 MyLife MyFinance: https://openbanking-api.mylifemyfinance.com.au/cds-au/v1
 MyState Bank: https://openbanking.api.mystate.com.au/public/cds-au/v1
 National Australia Bank (NAB): https://openbank.api.nab.com.au/cds-au/v1
