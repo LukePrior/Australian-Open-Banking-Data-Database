@@ -76,8 +76,10 @@ BDCU Alliance Bank: https://api.cdr.bdcualliancebank.com.au/cds-au/v1
 Bank Australia: https://cds.api.bankaust.com.au/cds-au/v1
 Bank of China Australia: https://obdevp.bank-of-china.net.au/cds-au/v1
 Bank of Sydney: https://openbank.api.banksyd.com.au/cds-au/v1
+Bank of us: https://api.bankofus.com.au/OpenBanking/cds-au/v1
 Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au/cds-au/v1
+BOQ Specialist: https://secure.api.boqspecialist.com.au/cds-au/v1
 Cairns Bank: https://ibanking.cairnsbank.com.au/openbanking-penny/cds-au/v1
 Circle Alliance Bank: https://api.cdr.circle.com.au/cds-au/v1
 Citibank: https://aspac.api.citi.com/gcb/cds-au/v1
@@ -116,6 +118,7 @@ Virgin Money Australia: https://secure.api.virginmoney.com.au/cds-au/v1
 ```
 Bank First: https://ibank.bankfirst.com.au/openbanking/cds-au/v1
 Broken Hill Community Credit Union: https://public.cdr-api.bhccu.com.au/cds-au/v1
+Central Murray Credit Union: https://secure.cmcu.com.au/openbanking/cds-au/v1
 Central West Credit Union: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1
@@ -129,9 +132,12 @@ Great Southern Bank: https://openbanking.apiext.cua.com.au/cds-au/v1
 Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking/cds-au/v1
 Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
+The Mutual Bank: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union: https://prd.nicu.com.au/cds-au/v1
+Orange Credit Union: https://online.orangecu.com.au/cds-au/v1
 People's Choice Credit Union: https://api.peopleschoice.com.au/public/cds-au/v1
+Pulse Credit Union: https://public.cdr-api.pulsecredit.com.au/cds-au/v1
 South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking/cds-au/v1
 South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking/cds-au/v1
 Southern Cross Credit Union: https://mvp1.sccu.com.au/OpenBanking/cds-au/v1
@@ -149,6 +155,8 @@ bcu: https://ob-api.bcu.com.au/cds-au/v1
 86 400: https://public.cdr-api.86400.com.au/cds-au/v1
 Up: https://api.up.com.au/cds-au/v1
 Volt Bank: https://api.voltbank.com.au/cds-au/v1
+Leveraged: https://api.cdr.leveraged.com.au/cds-au/v1
+PayPal: https://api.paypal.com/v1/identity/cds-au/v1
 ```
 
 **Selective Banks / Credit Unions**
@@ -156,7 +164,9 @@ Volt Bank: https://api.voltbank.com.au/cds-au/v1
 Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-au/v1
 BankVic: https://ib.bankvic.com.au/openbanking/cds-au/v1
 Defence Bank: https://product.defencebank.com.au/cds-au/v1
+Firefighters Mutual Bank: https://ob.tmbl.com.au/fmbank/cds-au/v1
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au/cds-au/v1
+Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
 P&N Bank: https://ob-api.pnbank.com.au/cds-au/v1
 Police Bank: https://product.api.policebank.com.au/cds-au/v1
 Police Credit Union: https://api.policecu.com.au/openbanking/cds-au/v1
@@ -164,6 +174,7 @@ QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
 RSL Money: https://public.open.rslmoney.com.au/cds-au/v1
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
 Traditional Credit Union: https://prd.tcu.com.au/cds-au/v1
+Unibank: https://ob.tmbl.com.au/unibank/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
 
