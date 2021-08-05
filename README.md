@@ -48,10 +48,10 @@ This is the current list of Australian deposit taking institutions and their res
 
 **Big Four Banks**
 ```
-Commonwealth Bank of Australia (CBA): https://api.commbank.com.au/public/cds-au/v1
-Westpac Banking Corporation (Westpac): https://digital-api.westpac.com.au/cds-au/v1
 Australia and New Zealand Banking Group (ANZ): https://api.anz/cds-au/v1
+Commonwealth Bank of Australia (CBA): https://api.commbank.com.au/public/cds-au/v1
 National Australia Bank (NAB): https://openbank.api.nab.com.au/cds-au/v1
+Westpac Banking Corporation (Westpac): https://digital-api.westpac.com.au/cds-au/v1
 ```
 
 **Regional Banks**
