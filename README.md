@@ -63,7 +63,7 @@ Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
 AMP: https://api.cdr-api.amp.com.au/cds-au/v1
 Suncorp: https://prd.suncorpbank.com.au/cds-au/v1
 ING Bank: https://apic.ing.com.au/cds-au/v1
-HSBC Bank: https://api.hsbc.com.au/cds-au/v1
+HSBC Bank: https://openbanking.hsbc.com.au/cds-au/v1 
 ```
 
 **Small Banks**
