@@ -53,7 +53,7 @@ Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
 Heritage Bank: https://product.api.heritage.com.au/cds-au/v1
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
-HSBC Bank: https://api.hsbc.com.au/cds-au/v1
+HSBC Bank: https://openbanking.hsbc.com.au/cds-au/v1
 Hume Bank: https://ibank.humebank.com.au/openbanking/cds-au/v1
 Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 IMB Bank: https://api.openbanking.imb.com.au/cds-au/v1
