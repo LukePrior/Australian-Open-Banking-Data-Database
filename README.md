@@ -95,7 +95,7 @@ Heritage Bank: https://product.api.heritage.com.au/cds-au/v1
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
 Hume Bank: https://ibank.humebank.com.au/openbanking/cds-au/v1
 IMB Bank: https://api.openbanking.imb.com.au/cds-au/v1
-Judo Bank: https://open.judo.bank/cds-au/v1
+Judo Bank: https://public.open.judo.bank/cds-au/v1
 ME Bank: https://api.mebank.com.au/cds-au/v1
 MOVE Bank: https://api.movebank.com.au/OpenBanking/cds-au/v1
 MyLife MyFinance: https://openbanking-api.mylifemyfinance.com.au/cds-au/v1
