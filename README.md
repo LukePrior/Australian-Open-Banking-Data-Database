@@ -99,7 +99,7 @@ Judo Bank: https://public.open.judo.bank/cds-au/v1
 ME Bank: https://api.mebank.com.au/cds-au/v1
 MOVE Bank: https://api.movebank.com.au/OpenBanking/cds-au/v1
 MyLife MyFinance: https://openbanking-api.mylifemyfinance.com.au/cds-au/v1
-MyState Bank: https://openbanking.api.mystate.com.au/public/cds-au/v1
+MyState Bank: https://openbank.api.mystate.com.au/cds-au/v1
 Nova Alliance Bank: https://api.cdr.novaalliancebank.com.au/cds-au/v1
 Qudos Bank: https://public.cdr-api.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
@@ -134,7 +134,7 @@ Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking/cds-au
 Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 The Mutual Bank: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au/cds-au/v1
-Northern Inland Credit Union: https://prd.nicu.com.au/cds-au/v1
+Northern Inland Credit Union: https://api.cds.nicu.com.au/cds-au/v1
 Orange Credit Union: https://online.orangecu.com.au/cds-au/v1
 People's Choice Credit Union: https://api.peopleschoice.com.au/public/cds-au/v1
 Pulse Credit Union: https://public.cdr-api.pulsecredit.com.au/cds-au/v1
