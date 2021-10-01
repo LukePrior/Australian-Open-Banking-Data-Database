@@ -99,7 +99,7 @@ servers:
     description: MyLife MyFinance
   - url: https://openbanking.api.mystate.com.au/cds-au/v1
     description: MyState Bank
-  - url: https://api.cdr.novaalliancebank.com.au/cds-au/v1
+  - url: https://openbank.api.mystate.com.au/cds-au/v1
     description: Nova Alliance Bank
   - url: https://public.cdr-api.qudosbank.com.au/cds-au/v1
     description: Qudos Bank 
@@ -157,7 +157,7 @@ servers:
     description: Newcastle Permanent Building Society
   - url: http://nicu.prd.cdr.systems/cds-au/v1
     description: Northern Inland Credit Union
-  - url: https://api.peopleschoice.com.au/public/cds-au/v1
+  - url: https://api.cds.nicu.com.au/cds-au/v1
     description: People's Choice Credit Union
   - url: https://internetbanking.swcredit.com.au/OpenBanking/cds-au/v1
     description: South West Credit Union
