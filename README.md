@@ -128,7 +128,7 @@ Easy Street Financial Services: https://ebranch.easystreet.com.au/es-openbanking
 Family First Credit Union: https://online.familyfirst.com.au/OpenBanking/cds-au/v1
 First Choice Credit Union: https://public.cdr-api.firstchoicecu.com.au/cds-au/v1
 Goulburn Murray Credit Union: https://gmcu.cds.cuscal.com.au/cds-au/v1
-Great Southern Bank: https://openbanking.apiext.cua.com.au/cds-au/v1
+Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
 Illawarra Credit Union: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/openbanking/cds-au/v1
 Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
