@@ -70,6 +70,7 @@ HSBC Bank: https://openbanking.hsbc.com.au/cds-au/v1
 ```
 AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au/cds-au/v1
 Arab Bank Australia: https://openbanking-api.arabbank.com.au/public/cds-au/v1
+Australian Mutual Bank: https://internetbanking.australianmutual.bank/openbanking/public/cds-au/v1
 Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank: https://api.auswidebank.com.au/OpenBanking/cds-au/v1
 BDCU Alliance Bank: https://api.cdr.bdcualliancebank.com.au/cds-au/v1
@@ -84,7 +85,6 @@ Cairns Bank: https://ibanking.cairnsbank.com.au/openbanking-penny/cds-au/v1
 Circle Alliance Bank: https://api.cdr.circle.com.au/cds-au/v1
 Citibank: https://aspac.api.citi.com/gcb/cds-au/v1
 Delphi Bank: https://api.cdr.delphibank.com.au/cds-au/v1
-Endeavour Mutual Bank: https://netbank.endeavour.bank/openbankingesb/cds-au/v1
 First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1
 G&C Mutual Bank: https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1
 Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
@@ -108,7 +108,6 @@ Rabobank: https://openbanking.api.rabobank.com.au/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
 Service One Alliance Bank: https://api.cdr.serviceone.com.au/cds-au/v1
-Sydney Mutual Bank: https://internetbanking.sydneymutual.bank/openbankingscu/cds-au/v1
 UBank: https://openbank.api.ubank.com.au/cds-au/v1
 Unity Bank: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1
 Virgin Money Australia: https://secure.api.virginmoney.com.au/cds-au/v1
