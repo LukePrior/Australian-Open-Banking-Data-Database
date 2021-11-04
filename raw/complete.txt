@@ -14,8 +14,10 @@ AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au/cds-au/v1
 Bank Australia: https://cds.api.bankaust.com.au/cds-au/v1
 Bank First: https://ibank.bankfirst.com.au/openbanking/cds-au/v1
 Bank of China Australia: https://obdevp.bank-of-china.net.au/cds-au/v1
+Bank of Melbourne: https://digital-api.bankofmelbourne.com.au/cds-au/v1/banking/products
 Bank of Sydney: https://openbank.api.banksyd.com.au/cds-au/v1
 Bank of us: https://api.bankofus.com.au/OpenBanking/cds-au/v1
+BankSA: https://digital-api.banksa.com.au/cds-au/v1/banking/products
 BankVic: https://ib.bankvic.com.au/openbanking/cds-au/v1
 Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
 bcu: https://ob-api.bcu.com.au/cds-au/v1
@@ -32,6 +34,7 @@ Central West Credit Union: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Circle Alliance Bank: https://api.cdr.circle.com.au/cds-au/v1
 Citibank: https://aspac.api.citi.com/gcb/cds-au/v1
 Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
+CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
 Defence Bank: https://product.defencebank.com.au/cds-au/v1
@@ -52,6 +55,7 @@ Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
 Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
 Heritage Bank: https://product.api.heritage.com.au/cds-au/v1
+Hiver Bank: https://ob.tmbl.com.au/hiver/cds-au/v1
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
 HSBC Bank: https://openbanking.hsbc.com.au/cds-au/v1
 Hume Bank: https://ibank.humebank.com.au/openbanking/cds-au/v1
@@ -65,6 +69,7 @@ Macquarie Bank: https://api.macquariebank.io/cds-au/v1
 Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 ME Bank: https://api.mebank.com.au/cds-au/v1
 MOVE Bank: https://api.movebank.com.au/OpenBanking/cds-au/v1
+Money by Afterpay: https://api.cds.afterpay.com.au/cds-au/v1
 The Mutual Bank: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 MyLife MyFinance: https://openbanking-api.mylifemyfinance.com.au/cds-au/v1
 MyState Bank: https://openbank.api.mystate.com.au/cds-au/v1
@@ -83,6 +88,7 @@ Qudos Bank: https://public.cdr-api.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
 Rabobank: https://openbanking.api.rabobank.com.au/cds-au/v1
 RACQ Bank: https://cdrbank.racq.com.au/cds-au/v1
+RAMS Financial Group: https://digital-api.westpac.com.au/rams/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 RSL Money: https://public.open.rslmoney.com.au/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
@@ -90,6 +96,7 @@ Service One Alliance Bank: https://api.cdr.serviceone.com.au/cds-au/v1
 South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking/cds-au/v1
 South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking/cds-au/v1
 Southern Cross Credit Union: https://mvp1.sccu.com.au/OpenBanking/cds-au/v1
+St.George Bank: https://digital-api.stgeorge.com.au/cds-au/v1/banking/products
 Summerland Credit Union: https://public.cdr-api.summerland.com.au/cds-au/v1
 Suncorp: https://prd.suncorpbank.com.au/cds-au/v1
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
