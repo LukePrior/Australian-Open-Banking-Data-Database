@@ -70,7 +70,7 @@ HSBC Bank: https://openbanking.hsbc.com.au/cds-au/v1
 ```
 AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au/cds-au/v1
 Arab Bank Australia: https://openbanking-api.arabbank.com.au/public/cds-au/v1
-Australian Mutual Bank: https://internetbanking.australianmutual.bank/openbanking/public/cds-au/v1
+Australian Mutual Bank: https://internetbanking.australianmutual.bank/openbanking/cds-au/v1
 Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank: https://api.auswidebank.com.au/OpenBanking/cds-au/v1
 BDCU Alliance Bank: https://api.cdr.bdcualliancebank.com.au/cds-au/v1
