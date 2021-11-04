@@ -7,7 +7,7 @@ Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
 AMP: https://api.cdr-api.amp.com.au/cds-au/v1
 Arab Bank Australia: https://openbanking-api.arabbank.com.au/public/cds-au/v1
 Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-au/v1
-Australian Mutual Bank: https://internetbanking.australianmutual.bank/openbanking/public/cds-au/v1
+Australian Mutual Bank: https://internetbanking.australianmutual.bank/openbanking/cds-au/v1
 Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank: https://api.auswidebank.com.au/OpenBanking/cds-au/v1
 AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au/cds-au/v1
