@@ -135,7 +135,7 @@ Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 The Mutual Bank: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union: https://api.cds.nicu.com.au/cds-au/v1
-Orange Credit Union: https://online.orangecu.com.au/cds-au/v1
+Orange Credit Union: https://online.orangecu.com.au/openbanking/cds-au/v1
 People's Choice Credit Union: https://api.peopleschoice.com.au/public/cds-au/v1
 Pulse Credit Union: https://public.cdr-api.pulsecredit.com.au/cds-au/v1
 South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking/cds-au/v1
