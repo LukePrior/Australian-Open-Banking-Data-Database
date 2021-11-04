@@ -41,7 +41,7 @@ You can run the following example from CMD.
 
 You can view the uptime and status for each endpoint [here](https://lukeprior.github.io/OpenBankingUptime).
 
-## List of Current Providers - 109
+## List of Current Providers - 115
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The insitutions have been classified into unique categories, the complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -76,14 +76,17 @@ Auswide Bank: https://api.auswidebank.com.au/OpenBanking/cds-au/v1
 BDCU Alliance Bank: https://api.cdr.bdcualliancebank.com.au/cds-au/v1
 Bank Australia: https://cds.api.bankaust.com.au/cds-au/v1
 Bank of China Australia: https://obdevp.bank-of-china.net.au/cds-au/v1
+Bank of Melbourne: https://digital-api.bankofmelbourne.com.au/cds-au/v1
 Bank of Sydney: https://openbank.api.banksyd.com.au/cds-au/v1
 Bank of us: https://api.bankofus.com.au/OpenBanking/cds-au/v1
+BankSA: https://digital-api.banksa.com.au/cds-au/v1
 Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au/cds-au/v1
 BOQ Specialist: https://secure.api.boqspecialist.com.au/cds-au/v1
 Cairns Bank: https://ibanking.cairnsbank.com.au/openbanking-penny/cds-au/v1
 Circle Alliance Bank: https://api.cdr.circle.com.au/cds-au/v1
 Citibank: https://aspac.api.citi.com/gcb/cds-au/v1
+CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Delphi Bank: https://api.cdr.delphibank.com.au/cds-au/v1
 First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1
 G&C Mutual Bank: https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1
@@ -105,9 +108,11 @@ Qudos Bank: https://public.cdr-api.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
 RACQ Bank: https://cdrbank.racq.com.au/cds-au/v1
 Rabobank: https://openbanking.api.rabobank.com.au/cds-au/v1
+RAMS Financial Group: https://digital-api.westpac.com.au/rams/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
 Service One Alliance Bank: https://api.cdr.serviceone.com.au/cds-au/v1
+St.George Bank: https://digital-api.stgeorge.com.au/cds-au/v1
 UBank: https://openbank.api.ubank.com.au/cds-au/v1
 Unity Bank: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1
 Virgin Money Australia: https://secure.api.virginmoney.com.au/cds-au/v1
@@ -149,14 +154,15 @@ Warwick Credit Union: https://ibanking.wcu.com.au/openbanking-warwick/cds-au/v1
 bcu: https://ob-api.bcu.com.au/cds-au/v1
 ```
 
-**Neobanks**
+**Neobanks / Other**
 ```
 86 400: https://public.cdr-api.86400.com.au/cds-au/v1
-Up: https://api.up.com.au/cds-au/v1
-Volt Bank: https://api.voltbank.com.au/cds-au/v1
 Leveraged: https://api.cdr.leveraged.com.au/cds-au/v1
+Money by Afterpay: https://api.cds.afterpay.com.au/cds-au/v1
 PayPal: https://api.paypal.com/v1/identity/cds-au/v1
 Tyro: https://public.cdr.tyro.com/cds-au/v1
+Up: https://api.up.com.au/cds-au/v1
+Volt Bank: https://api.voltbank.com.au/cds-au/v1
 ```
 
 **Selective Banks / Credit Unions**
@@ -167,6 +173,7 @@ Defence Bank: https://product.defencebank.com.au/cds-au/v1
 Firefighters Mutual Bank: https://ob.tmbl.com.au/fmbank/cds-au/v1
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
+Hiver Bank: https://ob.tmbl.com.au/hiver/cds-au/v1
 P&N Bank: https://ob-api.pnbank.com.au/cds-au/v1
 Police Bank: https://product.api.policebank.com.au/cds-au/v1
 Police Credit Union: https://api.policecu.com.au/openbanking/cds-au/v1
