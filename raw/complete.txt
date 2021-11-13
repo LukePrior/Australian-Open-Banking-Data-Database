@@ -34,7 +34,6 @@ Central West Credit Union: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Circle Alliance Bank: https://api.cdr.circle.com.au/cds-au/v1
 Citibank: https://aspac.api.citi.com/gcb/cds-au/v1
 Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
-CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Community First Credit Union: https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
 Defence Bank: https://product.defencebank.com.au/cds-au/v1
