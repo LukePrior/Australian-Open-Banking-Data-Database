@@ -41,7 +41,7 @@ You can run the following example from CMD.
 
 You can view the uptime and status for each endpoint [here](https://lukeprior.github.io/OpenBankingUptime).
 
-## List of Current Providers - 114
+## List of Current Providers - 113
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The insitutions have been classified into unique categories, the complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -86,7 +86,6 @@ BOQ Specialist: https://secure.api.boqspecialist.com.au/cds-au/v1
 Cairns Bank: https://ibanking.cairnsbank.com.au/openbanking-penny/cds-au/v1
 Circle Alliance Bank: https://api.cdr.circle.com.au/cds-au/v1
 Citibank: https://aspac.api.citi.com/gcb/cds-au/v1
-Delphi Bank: https://api.cdr.delphibank.com.au/cds-au/v1
 First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1
 G&C Mutual Bank: https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1
 Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
