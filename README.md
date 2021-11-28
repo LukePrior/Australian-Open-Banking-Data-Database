@@ -96,7 +96,7 @@ Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
 Heritage Bank: https://product.api.heritage.com.au/cds-au/v1
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
 Hume Bank: https://ibank.humebank.com.au/openbanking/cds-au/v1
-IMB Bank: https://api.openbanking.imb.com.au/cds-au/v1
+IMB Bank: https://openbank.openbanking.imb.com.au/cds-au/v1
 Judo Bank: https://public.open.judo.bank/cds-au/v1
 ME Bank: https://api.mebank.com.au/cds-au/v1
 MOVE Bank: https://api.movebank.com.au/OpenBanking/cds-au/v1
@@ -119,7 +119,7 @@ Virgin Money Australia: https://secure.api.virginmoney.com.au/cds-au/v1
 
 **Credit Unions**
 ```
-Bank First: https://ibank.bankfirst.com.au/openbanking/cds-au/v1
+Bank First: https://public.cdr.bankfirst.com.au/cds-au/v1
 Broken Hill Community Credit Union: https://public.cdr-api.bhccu.com.au/cds-au/v1
 Central Murray Credit Union: https://secure.cmcu.com.au/openbanking/cds-au/v1
 Central West Credit Union: https://ib.cwcu.com.au/openbanking/cds-au/v1
