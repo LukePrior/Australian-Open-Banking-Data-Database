@@ -61,7 +61,7 @@ Macquarie Bank: https://api.macquariebank.io/cds-au/v1
 Bendigo Bank: https://api.cdr.bendigobank.com.au/cds-au/v1
 Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
 AMP: https://api.cdr-api.amp.com.au/cds-au/v1
-Suncorp: https://prd.suncorpbank.com.au/cds-au/v1
+Suncorp: https://id-ob.suncorpbank.com.au/cds-au/v1
 ING Bank: https://apic.ing.com.au/cds-au/v1
 HSBC Bank: https://openbanking.hsbc.com.au/cds-au/v1 
 ```
@@ -138,7 +138,7 @@ The Mutual Bank: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 Newcastle Permanent Building Society: https://api.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union: https://api.cds.nicu.com.au/cds-au/v1
 Orange Credit Union: https://online.orangecu.com.au/openbanking/cds-au/v1
-People's Choice Credit Union: https://api.peopleschoice.com.au/public/cds-au/v1
+People's Choice Credit Union: https://ob-public.peopleschoice.com.au/public/cds-au/v1
 Pulse Credit Union: https://public.cdr-api.pulsecredit.com.au/cds-au/v1
 South West Credit Union: https://internetbanking.swcredit.com.au/OpenBanking/cds-au/v1
 South West Slopes Credit Union: https://online.swscu.com.au/OpenBanking/cds-au/v1
