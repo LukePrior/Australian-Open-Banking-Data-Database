@@ -13,7 +13,7 @@ for brand in sorted_brands:
     f.write(f"{brand['brandName']}: {brand['publicBaseUri']}/cds-au/v1\n")
 f.close()
 
-f = open("README.md", "r")
+f = open("README.md", "r", encoding="utf8", errors='ignore')
 readme = f.read()
 f.close()
 
