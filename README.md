@@ -1,9 +1,9 @@
 # Australian Open Banking Data Database
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/><img alt="GitHub Time Since Last Commit" src="https://img.shields.io/github/last-commit/Uskompuf/Australian-Open-Banking-Data-Database.svg?sanitize=true"/>
 
-On 26 November 2017, the Australian Government announced the introduction of a consumer data right (CDR) in Australia. The CDR will first apply to the banking sector with a [phased introduction](#phasing-table), currently the only publically available data is product reference data which includes credit and debit cards, deposit accounts, transaction accounts, mortgages, and personal loans. Consumer data is only available to [acreddited institutions](https://www.cdr.gov.au/find-a-provider?providerType=Data%2520Recipient). Personal access to consumer data is set to be implemented by major and non-major ADIs post 1 November 2021
+On 26 November 2017, the Australian Government announced the introduction of a consumer data right (CDR) in Australia. The CDR has been fully rolled out in the banking sector with energy and telco sectors set to be included in the coming years. Consumer data is only available to [acreddited institutions](https://www.cdr.gov.au/find-a-provider?providerType=Data%2520Recipient).
 
-This repositry is an ongoing collection of Open Banking Data API endpoint URLs for Australian deposit taking institutions. The API specifications for these endpoints can be found [here](https://consumerdatastandardsaustralia.github.io/standards/#future-dated-obligations).
+This repositry is an ongoing collection of Open Banking Data API endpoint URLs for Australian deposit taking institutions. This list used to be manually generated but has since switched to using the Data Holder Brands Summary [API](https://www.cdr.gov.au/for-providers/how-find-data-holders-product-data-request-service) The API specifications for these endpoints can be found [here](https://consumerdatastandardsaustralia.github.io/standards/#future-dated-obligations).
 
 ## Getting Started ##
 
@@ -178,14 +178,6 @@ Traditional Credit Union: https://prd.tcu.com.au/cds-au/v1
 Unibank: https://ob.tmbl.com.au/unibank/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 ```
-
-*NOTE: CitiBank also requires the `Accept: application/json` header to be sent*
-
-## Consumer Data Right Register
-
-This API returns all active Consumer Data Right Holders and Recipients.
-
-https://api.cdr.gov.au/cdr-register/v1/banking/register
 
 ## Contributing
 
