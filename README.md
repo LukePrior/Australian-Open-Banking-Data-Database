@@ -101,7 +101,7 @@ Goldfields Money: https://prd.bnk.com.au/cds-au/v1
 Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
 Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
 HSBC: https://public.ob.hsbc.com.au/cds-au/v1
-HSBC Bank Australia Limited – Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
+HSBC Bank Australia Limited â€“ Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
 Heritage Bank: https://product.api.heritage.com.au/cds-au/v1
 Hiver Bank: https://ob.tmbl.com.au/hiver/cds-au/v1
