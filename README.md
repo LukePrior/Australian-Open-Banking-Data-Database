@@ -116,7 +116,7 @@ Laboratories Credit Union: https://internetbanking.lcu.com.au/OpenBanking/cds-au
 ME Bank: https://public.openbank.mebank.com.au/cds-au/v1
 MOVE Bank: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1
 Macquarie Bank Limited: https://api.macquariebank.io/cds-au/v1
-Macquarie Credit Union: https://banking.macquariecu.com.au/cds-au/v1
+Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 Maitland Mutual Limited: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 MyState Bank: https://openbank.api.mystate.com.au/cds-au/v1
 Myer: https://myer.cdropenportal.io/cds-au/v1
