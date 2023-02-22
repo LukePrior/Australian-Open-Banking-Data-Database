@@ -108,7 +108,7 @@ Hiver Bank: https://ob.tmbl.com.au/hiver/cds-au/v1
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
 Hume Bank: https://ibankob.humebank.com.au/OpenBanking/cds-au/v1
 IMB Bank: https://openbank.openbanking.imb.com.au/cds-au/v1
-ING BANK (Australia) Ltd: https://apic.ing.com.au/cds-au/v1
+ING BANK (Australia) Ltd: https://id.ob.ing.com.au/cds-au/v1
 Illawarra Credit Union Limited: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 Judo Bank: https://public.open.judo.bank/cds-au/v1
 Kogan Money Credit Cards: https://api.openbanking.cards.koganmoney.com.au/cds-au/v1
