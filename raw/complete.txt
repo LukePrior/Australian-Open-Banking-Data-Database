@@ -26,7 +26,6 @@ Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
 Bell Potter: https://bellpotter.openportal.com.au/cds-au/v1
 Bendigo Bank: https://api.cdr.bendigobank.com.au/cds-au/v1
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au/cds-au/v1
-Beyond Bank Warrnambool: https://internetbanking.swcredit.com.au/openbanking/cds-au/v1
 CBA - CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Cairns bank: https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1
 Card Services: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1
