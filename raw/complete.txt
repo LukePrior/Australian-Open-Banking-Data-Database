@@ -10,6 +10,7 @@ Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-
 Australian Mutual Bank LTD: https://internetbanking.australianmutual.bank/openbanking/cds-au/v1
 Australian Unity Bank: https://datasharing-open-banking.australianunity.com.au/OpenBanking/cds-au/v1
 Auswide Bank Ltd: https://api.auswidebank.com.au/openbanking/cds-au/v1
+BCU Bank: https://public.cdr-api.bcu.com.au/cds-au/v1
 BDCU Alliance Bank: https://api.cdr.bdcualliancebank.com.au/cds-au/v1
 BHCCU: https://public.cdr-api.bhccu.com.au/cds-au/v1
 BOQ Specialist: https://api.cds.boqspecialist.com.au/cds-au/v1
@@ -121,6 +122,5 @@ Wise: https://au-cdrbanking-pub.wise.com/cds-au/v1
 Woolworths: https://woolworths.cdropenportal.io/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 bankWAW: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1
-bcu: https://public.cdr-api.bcu.com.au/cds-au/v1
 gmcu: https://secure.gmcu.com.au/OpenBanking/cds-au/v1
 u Bank: https://public.cdr-api.86400.com.au/cds-au/v1
