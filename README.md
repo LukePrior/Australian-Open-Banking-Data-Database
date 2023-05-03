@@ -51,7 +51,7 @@ Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
 Alex Bank: https://public.cdr.alex.bank//cds-au/v1
 Amigo: https://netbank.yourmutual.com.au/ym-OpenBanking/cds-au/v1
 Arab Bank Australia Limited: https://public.cdr.arabbank.com.au/cds-au/v1
-Aussie Home Loans: https://aussie.cdropenportal.io/cds-au/v1
+Aussie Home Loans: https://aussie.openportal.com.au/cds-au/v1
 Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-au/v1
 Australian Mutual Bank LTD: https://internetbanking.australianmutual.bank/openbanking/cds-au/v1
 Australian Unity Bank: https://datasharing-open-banking.australianunity.com.au/OpenBanking/cds-au/v1
@@ -120,7 +120,7 @@ Macquarie Bank Limited: https://api.macquariebank.io/cds-au/v1
 Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 Maitland Mutual Limited: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 MyState Bank: https://openbank.api.mystate.com.au/cds-au/v1
-Myer: https://myer.cdropenportal.io/cds-au/v1
+Myer: https://www.creditcard.myer.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
 Newcastle Permanent Building Society: https://openbank.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union: https://api.cds.nicu.com.au/cds-au/v1
@@ -165,7 +165,7 @@ Virgin Money: https://api.cds.virginmoney.com.au/cds-au/v1
 Warwick Credit Union Ltd: https://openbanking.wcu.com.au/OpenBanking/cds-au/v1
 Westpac: https://digital-api.westpac.com.au/cds-au/v1
 Wise: https://au-cdrbanking-pub.wise.com/cds-au/v1
-Woolworths: https://woolworths.cdropenportal.io/cds-au/v1
+Woolworths: https://login.woolworthsmoney.com.au/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 bankWAW: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1
 gmcu: https://secure.gmcu.com.au/OpenBanking/cds-au/v1
