@@ -12,7 +12,6 @@ Australian Mutual Bank LTD: https://internetbanking.australianmutual.bank/openba
 Australian Unity Bank: https://datasharing-open-banking.australianunity.com.au/OpenBanking/cds-au/v1
 Auswide Bank Ltd: https://api.auswidebank.com.au/openbanking/cds-au/v1
 BCU Bank: https://public.cdr-api.bcu.com.au/cds-au/v1
-BDCU Alliance Bank: https://api.cdr.bdcualliancebank.com.au/cds-au/v1
 BHCCU: https://public.cdr-api.bhccu.com.au/cds-au/v1
 BOQ Specialist: https://api.cds.boqspecialist.com.au/cds-au/v1
 Bank Australia: https://public.cdr-api.bankaust.com.au/cds-au/v1
@@ -34,7 +33,6 @@ Card Services: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1
 Central Murray Credit Union Limited: https://secure.cmcu.com.au/openbanking/cds-au/v1
 Central West CUL: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Challenger: https://api.openbanking.challenger.com.au/cds-au/v1
-Circle Alliance Bank: https://api.cdr.circle.com.au/cds-au/v1
 Citi: https://openbanking.api.citi.com.au/cds-au/v1
 Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
 Coles Financial Services: https://api.openbanking.secure.coles.com.au/cds-au/v1
@@ -79,7 +77,6 @@ Myer: https://www.creditcard.myer.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
 Newcastle Permanent Building Society: https://openbank.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union: https://api.cds.nicu.com.au/cds-au/v1
-Nova Alliance Bank: https://api.cdr.novaalliancebank.com.au/cds-au/v1
 ORANGE CREDIT UNION LTD: https://online.orangecu.com.au/openbanking/cds-au/v1
 P&N Bank: https://public.cdr-api.pnbank.com.au/cds-au/v1
 PayPal Australia: https://api.paypal.com/v1/identity/cds-au/v1
@@ -97,7 +94,6 @@ Rabobank: https://openbanking.api.rabobank.com.au/public/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Reliance Bank: https://ibanking.reliancebank.com.au/rel-openbanking/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
-Service One Alliance Bank: https://api.cdr.serviceone.com.au/cds-au/v1
 SocietyOne: https://api.cds.societyone.com.au/cds-au/v1
 South West Slopes Credit Union Ltd: https://online.swscu.com.au/openbanking/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
