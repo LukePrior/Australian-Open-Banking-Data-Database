@@ -68,6 +68,7 @@ Judo Bank: https://public.open.judo.bank/cds-au/v1
 Kogan Money Credit Cards: https://api.openbanking.cards.koganmoney.com.au/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/OpenBanking/cds-au/v1
 ME Bank: https://public.openbank.mebank.com.au/cds-au/v1
+ME Bank - ME Go: https://api.cds.mebank.com.au/cds-au/v1
 MOVE Bank: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1
 Macquarie Bank Limited: https://api.macquariebank.io/cds-au/v1
 Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
