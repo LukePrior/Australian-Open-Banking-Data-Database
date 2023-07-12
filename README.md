@@ -54,7 +54,7 @@ Arab Bank Australia Limited: https://public.cdr.arabbank.com.au/cds-au/v1
 Aussie Home Loans: https://aussie.openportal.com.au/cds-au/v1
 Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-au/v1
 Australian Mutual Bank LTD: https://internetbanking.australianmutual.bank/openbanking/cds-au/v1
-Australian Unity Bank: https://datasharing-open-banking.australianunity.com.au/OpenBanking/cds-au/v1
+Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank Ltd: https://api.auswidebank.com.au/openbanking/cds-au/v1
 BCU Bank: https://public.cdr-api.bcu.com.au/cds-au/v1
 BHCCU: https://public.cdr-api.bhccu.com.au/cds-au/v1
