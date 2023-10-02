@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->124<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->123<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -100,7 +100,7 @@ Goldfields Money: https://prd.bnk.com.au/cds-au/v1
 Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
 Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
 HSBC: https://public.ob.hsbc.com.au/cds-au/v1
-HSBC Bank Australia Limited â€“ Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
+HSBC Bank Australia Limited – Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
 Heritage Bank: https://product.api.heritage.com.au/cds-au/v1
 Hiver Bank: https://ob.tmbl.com.au/hiver/cds-au/v1
@@ -140,7 +140,6 @@ Rabobank: https://openbanking.api.rabobank.com.au/public/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Reliance Bank: https://ibanking.reliancebank.com.au/rel-openbanking/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
-SocietyOne: https://api.cds.societyone.com.au/cds-au/v1
 South West Slopes Credit Union Ltd: https://online.swscu.com.au/openbanking/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
 St.George Bank: https://digital-api.stgeorge.com.au/cds-au/v1

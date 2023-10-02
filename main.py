@@ -3,7 +3,13 @@ import re
 
 brands = {}
 
-r = requests.get('https://api.cdr.gov.au/cdr-register/v1/banking/data-holders/brands/summary', headers={"x-v":"1"})
+r = requests.get(
+    'https://api.cdr.gov.au/cdr-register/v1/banking/data-holders/brands/summary', 
+    headers={
+        "x-v":"1",
+        "user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko)"
+    }
+)
 
 available_brands = r.json()
 sorted_brands = sorted(available_brands['data'], key=lambda item: item['brandName'])
