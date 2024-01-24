@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->121<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->122<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -98,6 +98,7 @@ Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
 Geelong Bank: https://online.geelongbank.com.au/OpenBanking/cds-au/v1
 Goldfields Money: https://prd.bnk.com.au/cds-au/v1
 Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
+Great Southern Bank Business app: https://api.open-banking.business.greatsouthernbank.com.au/cds-au/v1
 Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
 HSBC: https://public.ob.hsbc.com.au/cds-au/v1
 HSBC Bank Australia Limited – Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
