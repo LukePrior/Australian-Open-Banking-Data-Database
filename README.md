@@ -123,7 +123,7 @@ MyState Bank: https://openbank.api.mystate.com.au/cds-au/v1
 Myer: https://www.creditcard.myer.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
 Newcastle Permanent Building Society: https://openbank.newcastlepermanent.com.au/cds-au/v1
-Northern Inland Credit Union: https://api.cds.nicu.com.au/cds-au/v1
+Northern Inland Credit Union Limited: https://secure.nicu.com.au/OpenBanking/cds-au/v1
 ORANGE CREDIT UNION LTD: https://online.orangecu.com.au/openbanking/cds-au/v1
 P&N Bank: https://public.cdr-api.pnbank.com.au/cds-au/v1
 PayPal Australia: https://api.paypal.com/v1/identity/cds-au/v1
