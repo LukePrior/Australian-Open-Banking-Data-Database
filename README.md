@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->122<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->121<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -91,7 +91,6 @@ Easy Street: https://ebranch.easystreet.com.au/es-OpenBanking/cds-au/v1
 Family First: https://public.cdr.familyfirst.com.au/cds-au/v1
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au/cds-au/v1
 Firefighters Mutual Bank: https://ob.tmbl.com.au/fmbank/cds-au/v1
-First Choice Credit Union: https://public.cdr-api.firstchoicecu.com.au/cds-au/v1
 First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1
 G&C Mutual Bank: https://ibank.gcmutualbank.com.au/OpenBanking/cds-au/v1
 Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
