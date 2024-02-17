@@ -143,7 +143,7 @@ Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
 South West Slopes Credit Union Ltd: https://online.swscu.com.au/openbanking/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
 St.George Bank: https://digital-api.stgeorge.com.au/cds-au/v1
-Summerland Credit Union: https://public.cdr-api.summerland.com.au/cds-au/v1
+Summerland Bank: https://public.cdr-api.summerland.com.au/cds-au/v1
 Suncorp Bank: https://id-ob.suncorpbank.com.au/cds-au/v1
 TMCU: https://banking.transportmutual.com.au/OpenBanking/cds-au/v1
 Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
