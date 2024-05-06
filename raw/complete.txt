@@ -106,6 +106,7 @@ The Mac: https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1
 Thriday: https://public.cdr.thriday.com.au/cds-au/v1
 Traditional Credit Union: https://prd.tcu.com.au/cds-au/v1
 Tyro Payments: https://public.cdr.tyro.com/cds-au/v1
+UBank: https://public.cdr-api.86400.com.au/cds-au/v1
 UniBank: https://ob.tmbl.com.au/unibank/cds-au/v1
 Unity Bank: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1
 Unloan: https://public.api.cdr.unloan.com.au/cds-au/v1
@@ -117,4 +118,3 @@ Wise: https://au-cdrbanking-pub.wise.com/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 bankWAW: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1
 gmcu: https://secure.gmcu.com.au/OpenBanking/cds-au/v1
-u Bank: https://public.cdr-api.86400.com.au/cds-au/v1
