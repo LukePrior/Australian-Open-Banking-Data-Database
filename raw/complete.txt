@@ -4,7 +4,6 @@ ANZ Plus: https://cdr.apix.anz/cds-au/v1
 AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au/cds-au/v1
 Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
 Alex Bank: https://public.cdr.alex.bank/cds-au/v1
-Amigo: https://netbank.yourmutual.com.au/ym-OpenBanking/cds-au/v1
 Arab Bank Australia Limited: https://public.cdr.arabbank.com.au/cds-au/v1
 Aussie Home Loans: https://aussie.openportal.com.au/cds-au/v1
 Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-au/v1
