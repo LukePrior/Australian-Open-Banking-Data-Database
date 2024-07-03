@@ -66,6 +66,7 @@ Illawarra Credit Union Limited: https://onlineteller.cu.com.au/OpenBanking/cds-a
 Judo Bank: https://public.open.judo.bank/cds-au/v1
 Kogan Money Credit Cards: https://api.openbanking.cards.koganmoney.com.au/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/OpenBanking/cds-au/v1
+Liberty Financial: https://services.liberty.com.au/api/data-holder-public/cds-au/v1
 ME Bank: https://public.openbank.mebank.com.au/cds-au/v1
 ME Bank - ME Go: https://api.cds.mebank.com.au/cds-au/v1
 MOVE Bank: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1
