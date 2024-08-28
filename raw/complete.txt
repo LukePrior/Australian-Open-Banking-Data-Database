@@ -94,7 +94,7 @@ Rabobank: https://openbanking.api.rabobank.com.au/public/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Reliance Bank: https://ibanking.reliancebank.com.au/rel-openbanking/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
-South West Slopes Credit Union Ltd: https://online.swscu.com.au/openbanking/cds-au/v1
+South West Slopes Credit Union Ltd trading as SWSbank: https://online.swscu.com.au/openbanking/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
 St.George Bank: https://digital-api.stgeorge.com.au/cds-au/v1
 Summerland Bank: https://public.cdr-api.summerland.com.au/cds-au/v1
