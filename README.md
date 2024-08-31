@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->120<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->122<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -61,6 +61,7 @@ BOQ Specialist: https://api.cds.boqspecialist.com.au/cds-au/v1
 Bank Australia: https://public.cdr-api.bankaust.com.au/cds-au/v1
 Bank First: https://public.cdr.bankfirst.com.au/cds-au/v1
 Bank of China: https://api-gateway.bankofchina.com.au/cds-au/v1
+Bank of Heritage Isle: https://product.api.heritageisle.com.au/cds-au/v1
 Bank of Melbourne: https://digital-api.bankofmelbourne.com.au/cds-au/v1
 Bank of Queensland Limited: https://api.cds.boq.com.au/cds-au/v1
 Bank of Sydney: https://openbank.api.banksyd.com.au/cds-au/v1
@@ -71,6 +72,7 @@ Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
 Bell Potter: https://bellpotter.openportal.com.au/cds-au/v1
 Bendigo Bank: https://api.cdr.bendigobank.com.au/cds-au/v1
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au/cds-au/v1
+Border Bank: https://product.api.borderbank.com.au/cds-au/v1
 CBA - CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Cairns bank: https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1
 Card Services: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1
