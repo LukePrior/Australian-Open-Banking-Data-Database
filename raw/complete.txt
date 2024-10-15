@@ -24,7 +24,6 @@ Bank of us: https://api.bankofus.com.au/OpenBanking/cds-au/v1
 BankSA: https://digital-api.banksa.com.au/cds-au/v1
 BankVic: https://ib.bankvic.com.au/openbanking/cds-au/v1
 Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
-Bell Potter: https://bellpotter.openportal.com.au/cds-au/v1
 Bendigo Bank: https://api.cdr.bendigobank.com.au/cds-au/v1
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au/cds-au/v1
 Border Bank: https://product.api.borderbank.com.au/cds-au/v1
