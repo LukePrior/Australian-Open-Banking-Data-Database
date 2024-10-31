@@ -52,7 +52,7 @@ Geelong Bank: https://online.geelongbank.com.au/OpenBanking/cds-au/v1
 Goldfields Money: https://prd.bnk.com.au/cds-au/v1
 Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
 Great Southern Bank Business+: https://api.open-banking.business.greatsouthernbank.com.au/cds-au/v1
-Greater Bank: https://public.cdr-api.greater.com.au/cds-au/v1
+Greater Bank: https://public.cdr.greater.com.au/cds-au/v1
 HSBC: https://public.ob.hsbc.com.au/cds-au/v1
 HSBC Bank Australia Limited – Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
