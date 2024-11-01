@@ -43,7 +43,7 @@ This is the current list of Australian deposit taking institutions and their res
 
 <!-- BRANDS -->
 ```
-AMP Bank: https://api.cdr-api.amp.com.au/cds-au/v1
+AMP - My AMP: https://api.cdr-api.amp.com.au/cds-au/v1
 ANZ: https://api.anz/cds-au/v1
 ANZ Plus: https://cdr.apix.anz/cds-au/v1
 AWA Alliance Bank: https://api.cdr.awaalliancebank.com.au/cds-au/v1
