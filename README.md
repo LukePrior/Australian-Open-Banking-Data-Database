@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->122<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->120<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -61,7 +61,6 @@ BOQ Specialist: https://api.cds.boqspecialist.com.au/cds-au/v1
 Bank Australia: https://public.cdr-api.bankaust.com.au/cds-au/v1
 Bank First: https://public.cdr.bankfirst.com.au/cds-au/v1
 Bank of China: https://api-gateway.bankofchina.com.au/cds-au/v1
-Bank of Heritage Isle: https://product.api.heritageisle.com.au/cds-au/v1
 Bank of Melbourne: https://digital-api.bankofmelbourne.com.au/cds-au/v1
 Bank of Queensland Limited: https://api.cds.boq.com.au/cds-au/v1
 Bank of Sydney: https://openbank.api.banksyd.com.au/cds-au/v1
@@ -119,7 +118,6 @@ MOVE Bank: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1
 Macquarie Bank Limited: https://api.macquariebank.io/cds-au/v1
 Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 Maitland Mutual Limited: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
-MyState: https://openbank.api.mystate.com.au/cds-au/v1
 MyState Bank: https://public.cdr.mystate.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
 Newcastle Permanent Building Society: https://openbank.newcastlepermanent.com.au/cds-au/v1
