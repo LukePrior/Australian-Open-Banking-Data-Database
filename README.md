@@ -56,7 +56,6 @@ Australian Mutual Bank LTD: https://internetbanking.australianmutual.bank/openba
 Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank Ltd: https://api.auswidebank.com.au/openbanking/cds-au/v1
 BCU Bank: https://public.cdr-api.bcu.com.au/cds-au/v1
-BHCCU: https://public.cdr-api.bhccu.com.au/cds-au/v1
 BOQ Specialist: https://api.cds.boqspecialist.com.au/cds-au/v1
 Bank Australia: https://public.cdr-api.bankaust.com.au/cds-au/v1
 Bank First: https://public.cdr.bankfirst.com.au/cds-au/v1
@@ -71,6 +70,7 @@ Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
 Bendigo Bank: https://api.cdr.bendigobank.com.au/cds-au/v1
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au/cds-au/v1
 Border Bank: https://product.api.borderbank.com.au/cds-au/v1
+Broken Hill Bank: https://public.cdr-api.bhccu.com.au/cds-au/v1
 CBA - CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Cairns bank: https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1
 Card Services: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1
