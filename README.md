@@ -69,7 +69,7 @@ BankVic: https://ib.bankvic.com.au/openbanking/cds-au/v1
 Bankwest: https://open-api.bankwest.com.au/bwpublic/cds-au/v1
 Bendigo Bank: https://api.cdr.bendigobank.com.au/cds-au/v1
 Beyond Bank Australia: https://public.cdr.api.beyondbank.com.au/cds-au/v1
-Border Bank: https://product.api.borderbank.com.au/cds-au/v1
+Border Bank: https://public.cdr.prd.borderbank.com.au/cds-au/v1
 Broken Hill Bank: https://public.cdr-api.bhccu.com.au/cds-au/v1
 CBA - CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Cairns bank: https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1
@@ -126,7 +126,7 @@ ORANGE CREDIT UNION LTD: https://online.orangecu.com.au/openbanking/cds-au/v1
 P&N Bank: https://public.cdr-api.pnbank.com.au/cds-au/v1
 PayPal Australia: https://api.paypal.com/v1/identity/cds-au/v1
 People's Choice: https://ob-public.peopleschoice.com.au/cds-au/v1
-Police Bank: https://product.api.policebank.com.au/cds-au/v1
+Police Bank: https://public.cdr.prd.policebank.com.au/cds-au/v1
 Police Credit Union Ltd: https://api.policecu.com.au/OpenBanking/cds-au/v1
 QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
 Qantas Premier Credit Cards: https://api.openbanking.qantasmoney.com/cds-au/v1
