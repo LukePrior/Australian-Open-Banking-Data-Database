@@ -1,4 +1,5 @@
 AMP - My AMP: https://api.cdr-api.amp.com.au/cds-au/v1
+AMP Bank - Mobile banking: https://pub.cdr-sme.amp.com.au/cds-au/v1
 ANZ: https://api.anz/cds-au/v1
 ANZ Plus: https://cdr.apix.anz/cds-au/v1
 Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
@@ -93,7 +94,7 @@ Rabobank: https://openbanking.api.rabobank.com.au/public/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Reliance Bank: https://ibanking.reliancebank.com.au/rel-openbanking/cds-au/v1
 Rural Bank: https://api.cdr.ruralbank.com.au/cds-au/v1
-SWSbank: https://online.swscu.com.au/openbanking/cds-au/v1
+SWSbank: https://online.swsbank.com.au/openbanking/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
 St.George Bank: https://digital-api.stgeorge.com.au/cds-au/v1
 Summerland Bank: https://public.cdr-api.summerland.com.au/cds-au/v1
