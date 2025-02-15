@@ -71,7 +71,6 @@ ME Bank: https://public.openbank.mebank.com.au/cds-au/v1
 ME Bank - ME Go: https://api.cds.mebank.com.au/cds-au/v1
 MOVE Bank: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1
 Macquarie Bank Limited: https://api.macquariebank.io/cds-au/v1
-Macquarie Credit Union: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1
 Maitland Mutual Limited: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
 MyState Bank: https://public.cdr.mystate.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
