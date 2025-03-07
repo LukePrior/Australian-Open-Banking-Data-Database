@@ -77,7 +77,7 @@ Card Services: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1
 Central Murray Credit Union Limited: https://secure.cmcu.com.au/openbanking/cds-au/v1
 Central West CUL: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Citi: https://openbanking.api.citi.com.au/cds-au/v1
-Coastline Credit Union: https://public.cdr-api.coastline.com.au/cds-au/v1
+Coastline Bank: https://public.cdr-api.coastline.com.au/cds-au/v1
 Coles Financial Services: https://api.openbanking.secure.coles.com.au/cds-au/v1
 CommBank: https://api.commbank.com.au/public/cds-au/v1
 CommFCU: https://netbank.communityfirst.com.au/cf-OpenBanking/cds-au/v1
