@@ -29,7 +29,7 @@ Broken Hill Bank: https://public.cdr-api.bhccu.com.au/cds-au/v1
 CBA - CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Cairns bank: https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1
 Card Services: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1
-Central Murray Credit Union Limited: https://secure.cmcu.com.au/openbanking/cds-au/v1
+Central Murray Bank: https://secure.cmcu.com.au/openbanking/cds-au/v1
 Central West CUL: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Citi: https://openbanking.api.citi.com.au/cds-au/v1
 Coastline Bank: https://public.cdr-api.coastline.com.au/cds-au/v1
