@@ -116,3 +116,4 @@ Wise: https://au-cdrbanking-pub.wise.com/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 bankWAW: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1
 gmcu: https://secure.gmcu.com.au/OpenBanking/cds-au/v1
+in1bank ltd.: https://cdr.in1bank.com.au/cds-au/v1
