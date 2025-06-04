@@ -44,7 +44,7 @@ This is the current list of Australian deposit taking institutions and their res
 <!-- BRANDS -->
 ```
 AMP - My AMP: https://api.cdr-api.amp.com.au/cds-au/v1
-AMP Bank - Mobile banking: https://pub.cdr-sme.amp.com.au/api/cds-au/v1
+AMP Bank GO: https://pub.cdr-sme.amp.com.au/api/cds-au/v1
 ANZ: https://api.anz/cds-au/v1
 ANZ Plus: https://cdr.apix.anz/cds-au/v1
 Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
