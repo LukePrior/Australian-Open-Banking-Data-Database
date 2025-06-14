@@ -57,7 +57,7 @@ Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank Ltd: https://api.auswidebank.com.au/openbanking/cds-au/v1
 BCU Bank: https://public.cdr-api.bcu.com.au/cds-au/v1
 BOQ Specialist: https://api.cds.boqspecialist.com.au/cds-au/v1
-Bank Australia: https://public.cdr-api.bankaust.com.au/cds-au/v1
+Bank Australia: https://public.cdr.bankaust.com.au/cds-au/v1
 Bank First: https://public.cdr.bankfirst.com.au/cds-au/v1
 Bank of China: https://api-gateway.bankofchina.com.au/cds-au/v1
 Bank of Melbourne: https://digital-api.bankofmelbourne.com.au/cds-au/v1
