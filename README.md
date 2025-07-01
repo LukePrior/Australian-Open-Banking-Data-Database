@@ -56,6 +56,7 @@ Australian Mutual Bank LTD: https://internetbanking.australianmutual.bank/openba
 Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank Ltd: https://api.auswidebank.com.au/openbanking/cds-au/v1
 BCU Bank: https://public.cdr-api.bcu.com.au/cds-au/v1
+BNK Bank (Goldfields Money/BCHL): https://public.cdr.bnk.com.au/cds-au/v1
 BOQ Specialist: https://api.cds.boqspecialist.com.au/cds-au/v1
 Bank Australia: https://public.cdr.bankaust.com.au/cds-au/v1
 Bank First: https://public.cdr.bankfirst.com.au/cds-au/v1
@@ -93,7 +94,6 @@ First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking/cds-au
 G&C Mutual Bank: https://ibank.gcmutualbank.com.au/OpenBanking/cds-au/v1
 Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
 Geelong Bank: https://online.geelongbank.com.au/OpenBanking/cds-au/v1
-Goldfields Money: https://prd.bnk.com.au/cds-au/v1
 Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
 Great Southern Bank Business+: https://od1.open-banking.business.greatsouthernbank.com.au/api/cds-au/v1
 Greater Bank Limited: https://public.cdr.greater.com.au/cds-au/v1
