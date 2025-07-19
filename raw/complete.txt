@@ -57,7 +57,6 @@ HSBC Bank Australia Limited – Wholesale Banking: https://public.ob.business.hs
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
 Heartland: https://api.cdr.heartlandbank.com.au/cds-au/v1
 Heritage Bank. Please do not use, please use People’s Choice.: https://product.api.heritage.com.au/cds-au/v1
-Hiver Bank: https://ob.tmbl.com.au/hiver/cds-au/v1
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
 Hume Bank: https://ibankob.humebank.com.au/OpenBanking/cds-au/v1
 IMB Bank: https://openbank.openbanking.imb.com.au/cds-au/v1
