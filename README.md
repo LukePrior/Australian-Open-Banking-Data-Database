@@ -84,6 +84,7 @@ CommBank: https://api.commbank.com.au/public/cds-au/v1
 CommFCU: https://netbank.communityfirst.com.au/cf-OpenBanking/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
 DDH Graham: https://api.cds.ddhgraham.com.au/cds-au/v1
+Darling Downs Bank: https://openbanking.wcu.com.au/OpenBanking/cds-au/v1
 Defence Bank: https://product.defencebank.com.au/cds-au/v1
 Dnister: https://public.cdr-api.dnister.com.au/cds-au/v1
 Easy Street: https://ebranch.easystreet.com.au/es-OpenBanking/cds-au/v1
@@ -156,7 +157,6 @@ Unity Bank: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1
 Unloan: https://public.api.cdr.unloan.com.au/cds-au/v1
 Up: https://api.up.com.au/cds-au/v1
 Virgin Money: https://api.cds.virginmoney.com.au/cds-au/v1
-Warwick Credit Union Ltd: https://openbanking.wcu.com.au/OpenBanking/cds-au/v1
 Westpac: https://digital-api.westpac.com.au/cds-au/v1
 Wise: https://au-cdrbanking-pub.wise.com/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
