@@ -34,7 +34,7 @@ Central Murray Bank: https://secure.cmcu.com.au/openbanking/cds-au/v1
 Central West CUL: https://ib.cwcu.com.au/openbanking/cds-au/v1
 Citi: https://openbanking.api.citi.com.au/cds-au/v1
 Coastline Bank: https://public.cdr-api.coastline.com.au/cds-au/v1
-Coles Financial Services: https://api.openbanking.secure.coles.com.au/cds-au/v1
+Coles Credit Cards: https://api.openbanking.secure.coles.com.au/cds-au/v1
 CommBank: https://api.commbank.com.au/public/cds-au/v1
 CommFCU: https://netbank.communityfirst.com.au/cf-OpenBanking/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
@@ -83,7 +83,7 @@ People's Choice: https://ob-public.peopleschoice.com.au/cds-au/v1
 Police Bank: https://public.cdr.prd.policebank.com.au/cds-au/v1
 Police Credit Union Ltd: https://api.policecu.com.au/OpenBanking/cds-au/v1
 QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
-Qantas Premier Credit Cards: https://api.openbanking.qantasmoney.com/cds-au/v1
+Qantas Money Credit Cards: https://api.openbanking.qantasmoney.com/cds-au/v1
 Qudos Bank: https://public.cdr.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
 RACQ Bank: https://cdrbank.racq.com.au/cds-au/v1
