@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->120<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->119<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -107,7 +107,6 @@ Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
 Hume Bank: https://ibankob.humebank.com.au/OpenBanking/cds-au/v1
 IMB Bank: https://openbank.openbanking.imb.com.au/cds-au/v1
 ING BANK (Australia) Ltd: https://id.ob.ing.com.au/cds-au/v1
-Illawarra Credit Union Limited: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1
 Judo Bank: https://public.open.judo.bank/cds-au/v1
 Kogan Money Credit Cards: https://api.openbanking.cards.koganmoney.com.au/cds-au/v1
 Laboratories Credit Union: https://internetbanking.lcu.com.au/OpenBanking/cds-au/v1
