@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->119<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->118<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -102,7 +102,6 @@ HSBC: https://public.ob.hsbc.com.au/cds-au/v1
 HSBC Bank Australia Limited – Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
 Heartland: https://api.cdr.heartlandbank.com.au/cds-au/v1
-Heritage Bank. Please do not use, please use People’s Choice.: https://product.api.heritage.com.au/cds-au/v1
 Horizon Bank: https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1
 Hume Bank: https://ibankob.humebank.com.au/OpenBanking/cds-au/v1
 IMB Bank: https://openbank.openbanking.imb.com.au/cds-au/v1
@@ -123,7 +122,7 @@ Northern Inland Credit Union Limited: https://secure.nicu.com.au/OpenBanking/cds
 ORANGE CREDIT UNION LTD: https://online.orangecu.com.au/openbanking/cds-au/v1
 P&N Bank: https://public.cdr-api.pnbank.com.au/cds-au/v1
 PayPal Australia: https://api.paypal.com/v1/identity/cds-au/v1
-People's Choice: https://ob-public.peopleschoice.com.au/cds-au/v1
+People's Choice and Heritage: https://ob-public.peopleschoice.com.au/cds-au/v1
 Police Bank: https://public.cdr.prd.policebank.com.au/cds-au/v1
 Police Credit Union Ltd: https://api.policecu.com.au/OpenBanking/cds-au/v1
 QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
