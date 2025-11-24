@@ -29,10 +29,8 @@ Border Bank: https://public.cdr.prd.borderbank.com.au/cds-au/v1
 Broken Hill Bank: https://public.cdr-api.bhccu.com.au/cds-au/v1
 CBA - CommBiz: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1
 Cairns bank: https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1
-Card Services: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1
 Central Murray Bank: https://secure.cmcu.com.au/openbanking/cds-au/v1
 Central West CUL: https://ib.cwcu.com.au/openbanking/cds-au/v1
-Citi: https://openbanking.api.citi.com.au/cds-au/v1
 Coastline Bank: https://public.cdr-api.coastline.com.au/cds-au/v1
 Coles Credit Cards: https://api.openbanking.secure.coles.com.au/cds-au/v1
 CommBank: https://api.commbank.com.au/public/cds-au/v1
@@ -70,6 +68,7 @@ ME Bank - ME Go: https://api.cds.mebank.com.au/cds-au/v1
 MOVE Bank: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1
 Macquarie Bank Limited: https://api.macquariebank.io/cds-au/v1
 Maitland Mutual Limited: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
+MyCard: https://openbanking.api.citi.com.au/cds-au/v1
 MyState Bank: https://public.cdr.mystate.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
 Newcastle Permanent Building Society: https://openbank.newcastlepermanent.com.au/cds-au/v1
