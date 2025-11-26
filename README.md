@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->117<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->116<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -53,7 +53,6 @@ Arab Bank Australia Limited: https://public.cdr.arabbank.com.au/cds-au/v1
 Aussie Home Loans: https://aussie.openportal.com.au/cds-au/v1
 Australian Military Bank: https://public.open.australianmilitarybank.com.au/cds-au/v1
 Australian Mutual Bank LTD: https://internetbanking.australianmutual.bank/openbanking/cds-au/v1
-Australian Unity Bank: https://open-banking.australianunity.com.au/cds-au/v1
 Auswide Bank Ltd: https://api.auswidebank.com.au/openbanking/cds-au/v1
 BCU Bank: https://public.cdr-api.bcu.com.au/cds-au/v1
 BNK Bank (Goldfields Money/BCHL): https://public.cdr.bnk.com.au/cds-au/v1
