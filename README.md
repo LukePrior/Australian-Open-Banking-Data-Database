@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->119<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->121<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -48,7 +48,6 @@ AMP - My AMP: https://api.cdr-api.amp.com.au/cds-au/v1
 AMP Bank GO: https://pub.cdr-sme.amp.com.au/api/cds-au/v1
 ANZ: https://api.anz/cds-au/v1
 ANZ Plus: https://cdr.apix.anz/cds-au/v1
-Adelaide Bank: https://api.cdr.adelaidebank.com.au/cds-au/v1
 Alex.Bank: https://public.cdr.alex.com.au/cds-au/v1
 Arab Bank Australia Limited: https://public.cdr.arabbank.com.au/cds-au/v1
 Aussie Elevate: https://api.aussie.app.bendigobank.com.au/cds-au/v1
@@ -118,6 +117,7 @@ Maitland Mutual Limited: https://openbanking.themutual.com.au/OpenBanking/cds-au
 MyCard: https://api-openbanking.secure.mycard.com.au/cds-au/v1
 MyState Bank: https://public.cdr.mystate.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
+NRMA Home Loans: https://api.nrma.app.bendigobank.com.au/cds-au/v1
 Newcastle Permanent Building Society: https://openbank.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union Limited: https://secure.nicu.com.au/OpenBanking/cds-au/v1
 ORANGE CREDIT UNION LTD: https://online.orangecu.com.au/openbanking/cds-au/v1
@@ -128,6 +128,7 @@ Police Bank: https://public.cdr.prd.policebank.com.au/cds-au/v1
 Police Credit Union Ltd: https://api.policecu.com.au/OpenBanking/cds-au/v1
 QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
 Qantas Money Credit Cards: https://api.openbanking.qantasmoney.com/cds-au/v1
+Qantas Money Home Loans: https://api.qantas.app.bendigobank.com.au/cds-au/v1
 Qudos Bank: https://public.cdr.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
 RACQ Bank: https://cdrbank.racq.com.au/cds-au/v1
@@ -147,6 +148,7 @@ Teachers Mutual Bank: https://ob.tmbl.com.au/tmbank/cds-au/v1
 The Capricornian: https://public.cdr.onlinebanking.capricornian.com.au/cds-au/v1
 The Mac: https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1
 Thriday: https://public.cdr.thriday.com.au/cds-au/v1
+Tiimely Home: https://api.tiimely.app.bendigobank.com.au/cds-au/v1
 Traditional Credit Union: https://prd.tcu.com.au/cds-au/v1
 Tyro Banking: https://od1.cdr.banking.tyro.com/api/cds-au/v1
 Tyro Payments: https://public.cdr.tyro.com/cds-au/v1
