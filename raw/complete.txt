@@ -38,7 +38,7 @@ CommFCU: https://netbank.communityfirst.com.au/cf-OpenBanking/cds-au/v1
 Connective Select: https://api.connective.app.bendigobank.com.au/cds-au/v1
 Credit Union SA: https://openbanking.api.creditunionsa.com.au/cds-au/v1
 DDH Graham: https://api.cds.ddhgraham.com.au/cds-au/v1
-Darling Downs Bank: https://openbanking.wcu.com.au/OpenBanking/cds-au/v1
+Darling Downs Bank: https://openbanking.ddbank.com.au/OpenBanking/cds-au/v1
 Defence Bank: https://product.defencebank.com.au/cds-au/v1
 Dnister: https://public.cdr-api.dnister.com.au/cds-au/v1
 Easy Street: https://ebranch.easystreet.com.au/es-OpenBanking/cds-au/v1
