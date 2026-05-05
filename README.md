@@ -123,7 +123,7 @@ Northern Inland Credit Union Limited: https://secure.nicu.com.au/OpenBanking/cds
 ORANGE CREDIT UNION LTD: https://online.orangecu.com.au/openbanking/cds-au/v1
 P&N Bank: https://public.cdr-api.pnbank.com.au/cds-au/v1
 PayPal Australia: https://api.paypal.com/v1/identity/cds-au/v1
-People's Choice and Heritage: https://ob-public.peopleschoice.com.au/cds-au/v1
+People First and Heritage Bank: https://public.openbanking.peoplefirstbank.com.au/cds-au/v1
 Police Bank: https://public.cdr.prd.policebank.com.au/cds-au/v1
 Police Credit Union Ltd: https://api.policecu.com.au/OpenBanking/cds-au/v1
 QBANK: https://banking.qbank.com.au/openbanking/cds-au/v1
