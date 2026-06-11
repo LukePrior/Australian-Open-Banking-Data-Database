@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->119<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->117<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -91,7 +91,6 @@ Family First: https://public.cdr.familyfirst.com.au/cds-au/v1
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au/cds-au/v1
 Firefighters Mutual Bank: https://ob.tmbl.com.au/fmbank/cds-au/v1
 First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1
-G&C Mutual Bank: https://ibank.gcmutualbank.com.au/OpenBanking/cds-au/v1
 Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
 Geelong Bank: https://online.geelongbank.com.au/OpenBanking/cds-au/v1
 Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
@@ -135,7 +134,6 @@ RAMS Financial Group Pty Ltd: https://digital-api.westpac.com.au/rams/cds-au/v1
 RSL Money: https://public.open.rslmoney.com.au/cds-au/v1
 Rabobank: https://openbanking.api.rabobank.com.au/public/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
-Reliance Bank: https://ibanking.reliancebank.com.au/rel-openbanking/cds-au/v1
 SWSbank: https://online.swsbank.com.au/openbanking/cds-au/v1
 Solo by MYOB: https://od1.open-banking.myob.greatsouthernbank.com.au/api/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
@@ -153,7 +151,7 @@ Tyro Banking: https://od1.cdr.banking.tyro.com/api/cds-au/v1
 Tyro Payments: https://public.cdr.tyro.com/cds-au/v1
 UBank: https://public.cdr-api.86400.com.au/cds-au/v1
 UniBank: https://ob.tmbl.com.au/unibank/cds-au/v1
-Unity Bank: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1
+Unity Bank: https://ibank.unity.bank/OpenBanking/cds-au/v1
 Unloan: https://public.api.cdr.unloan.com.au/cds-au/v1
 Up: https://api.up.com.au/cds-au/v1
 Virgin Money: https://api.cds.virginmoney.com.au/cds-au/v1
