@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->119<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->117<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -109,11 +109,9 @@ Kogan Money Credit Cards: https://api.openbanking.cards.koganmoney.com.au/cds-au
 Laboratories Credit Union: https://internetbanking.lcu.com.au/OpenBanking/cds-au/v1
 Liberty Financial: https://services.liberty.com.au/api/data-holder-public/cds-au/v1
 ME Bank - ME Go: https://api.cds.mebank.com.au/cds-au/v1
-MOVE Bank: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1
 Macquarie Bank Limited: https://api.macquariebank.io/cds-au/v1
 Maitland Mutual Limited: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1
-MoneyPlace: https://services.liberty.com.au/api/data-holder-public/moneyplace/cds-au/v1
-Moula: https://services.liberty.com.au/api/data-holder-public/moula/cds-au/v1
+MoveBank: https://od1.cdr.digital.move.bank/api/cds-au/v1
 MyCard: https://api-openbanking.secure.mycard.com.au/cds-au/v1
 MyState Bank: https://public.cdr.mystate.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
@@ -132,10 +130,10 @@ Qantas Money Home Loans: https://api.qantas.app.bendigobank.com.au/cds-au/v1
 Qudos Bank: https://public.cdr.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
 RACQ Bank: https://cdrbank.racq.com.au/cds-au/v1
-RAMS Financial Group Pty Ltd: https://digital-api.westpac.com.au/rams/cds-au/v1
 RSL Money: https://public.open.rslmoney.com.au/cds-au/v1
 Rabobank: https://openbanking.api.rabobank.com.au/public/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
+Revolut: https://au-cdr-public.revolut.com/public/cds-au/v1
 SWSbank: https://online.swsbank.com.au/openbanking/cds-au/v1
 Solo by MYOB: https://od1.open-banking.myob.greatsouthernbank.com.au/api/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
