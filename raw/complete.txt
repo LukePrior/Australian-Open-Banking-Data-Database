@@ -42,7 +42,6 @@ Darling Downs Bank: https://ibanking.ddbank.com.au/OpenBanking/cds-au/v1
 Defence Bank: https://product.defencebank.com.au/cds-au/v1
 Dnister: https://public.cdr-api.dnister.com.au/cds-au/v1
 Easy Street: https://ebranch.easystreet.com.au/es-OpenBanking/cds-au/v1
-Family First: https://public.cdr.familyfirst.com.au/cds-au/v1
 Fire Service Credit Union: https://public.cdr-api.fscu.com.au/cds-au/v1
 Firefighters Mutual Bank: https://ob.tmbl.com.au/fmbank/cds-au/v1
 First Option Bank: https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1
