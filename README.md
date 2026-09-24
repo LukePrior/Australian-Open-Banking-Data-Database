@@ -94,7 +94,7 @@ Gateway Bank: https://public.cdr-api.gatewaybank.com.au/cds-au/v1
 Geelong Bank: https://online.geelongbank.com.au/OpenBanking/cds-au/v1
 Great Southern Bank: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1
 Great Southern Bank Business+: https://od1.open-banking.business.greatsouthernbank.com.au/api/cds-au/v1
-Greater Bank Limited: https://public.cdr.greater.com.au/cds-au/v1
+Greater Bank: https://public.cdr.greater.com.au/cds-au/v1
 HSBC: https://public.ob.hsbc.com.au/cds-au/v1
 HSBC Bank Australia Limited – Wholesale Banking: https://public.ob.business.hsbc.com.au/cds-au/v1
 Health Professionals Bank: https://ob.tmbl.com.au/hpbank/cds-au/v1
@@ -115,7 +115,7 @@ MyCard: https://api-openbanking.secure.mycard.com.au/cds-au/v1
 MyState Bank: https://public.cdr.mystate.com.au/cds-au/v1
 NATIONAL AUSTRALIA BANK: https://openbank.api.nab.com.au/cds-au/v1
 NRMA Home Loans: https://api.nrma.app.bendigobank.com.au/cds-au/v1
-Newcastle Permanent Building Society: https://openbank.newcastlepermanent.com.au/cds-au/v1
+Newcastle Permanent: https://openbank.newcastlepermanent.com.au/cds-au/v1
 Northern Inland Credit Union Limited: https://secure.nicu.com.au/OpenBanking/cds-au/v1
 ORANGE CREDIT UNION LTD: https://online.orangecu.com.au/openbanking/cds-au/v1
 P&N Bank: https://public.cdr-api.pnbank.com.au/cds-au/v1
