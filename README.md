@@ -37,7 +37,7 @@ You can run the following example from CMD.
 - Examples for the Get Products and Get Product Detail APIs can be found [here](EXAMPLES.md). The examples are available in PHP, JavaScript, Python, C#, and Curl.
 - A jupyter notebook is available to download [here](examples/Australian_Open_Banking_Data.ipynb) or you can run the examples online with [Google Colab](https://colab.research.google.com/drive/1P_Tlww5VWMXJx7qhmISrhaqgxbF-yZRs#offline=true&sandboxMode=true).
 
-## List of Current Providers - <!-- COUNT -->116<!-- /COUNT -->
+## List of Current Providers - <!-- COUNT -->115<!-- /COUNT -->
 
 This is the current list of Australian deposit taking institutions and their respective CDS API endpoints. The complete unsorted list of API endpoints can be found [here](raw/complete.txt).
 
@@ -155,7 +155,6 @@ Unloan: https://public.api.cdr.unloan.com.au/cds-au/v1
 Up: https://api.up.com.au/cds-au/v1
 Virgin Money: https://api.cds.virginmoney.com.au/cds-au/v1
 Westpac: https://digital-api.westpac.com.au/cds-au/v1
-Wise: https://au-cdrbanking-pub.wise.com/cds-au/v1
 Woolworths Team Bank: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1
 bankWAW: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1
 gmcu: https://secure.gmcu.com.au/OpenBanking/cds-au/v1
