@@ -128,11 +128,11 @@ Qantas Money Basic/Offset Home Loans: https://api.qantas.app.bendigobank.com.au/
 Qantas Money Credit Cards: https://api.openbanking.qantasmoney.com/cds-au/v1
 Qudos Bank: https://public.cdr.qudosbank.com.au/cds-au/v1
 Queensland Country Bank: https://public.cdr-api.queenslandcountry.bank/cds-au/v1
-RACQ Bank: https://cdrbank.racq.com.au/cds-au/v1
 RSL Money: https://public.open.rslmoney.com.au/cds-au/v1
 Rabobank: https://openbanking.api.rabobank.com.au/public/cds-au/v1
 Regional Australia Bank: https://public-data.cdr.regaustbank.io/cds-au/v1
 Revolut: https://au-cdr-public.revolut.com/public/cds-au/v1
+Royal Automobile Club of Queensland (RACQ): https://cdrbank.racq.com.au/cds-au/v1
 SWSbank: https://online.swsbank.com.au/openbanking/cds-au/v1
 Solo by MYOB: https://od1.open-banking.myob.greatsouthernbank.com.au/api/cds-au/v1
 Southern Cross Credit Union: https://cdr.sccu.com.au/openbanking/cds-au/v1
