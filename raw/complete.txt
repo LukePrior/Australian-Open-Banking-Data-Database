@@ -103,7 +103,7 @@ Tiimely Home: https://api.tiimely.app.bendigobank.com.au/cds-au/v1
 Traditional Credit Union: https://prd.tcu.com.au/cds-au/v1
 Tyro Banking: https://od1.cdr.banking.tyro.com/api/cds-au/v1
 Tyro Payments: https://public.cdr.tyro.com/cds-au/v1
-UBank: https://public.cdr-api.86400.com.au/cds-au/v1
+Ubank: https://public.cdr-api.86400.com.au/cds-au/v1
 UniBank: https://ob.tmbl.com.au/unibank/cds-au/v1
 Unity Bank: https://ibank.unity.bank/OpenBanking/cds-au/v1
 Unloan: https://public.api.cdr.unloan.com.au/cds-au/v1
